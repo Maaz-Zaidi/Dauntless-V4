@@ -1,0 +1,14 @@
+.env
+/node_modules
+config.json
+/src/1newPresets.js
+/src/craftingPresetData.js
+/src/equipmentPresetData.js
+/src/marketPresetData.js
+/src/presetData.js
+/src/serverPresetData.js
+/src/spellpresetData.js
+/src/stockpresetData.js
+/src/titlepresetData.js
+/src/presetData.js
+/src/Images

@@ -1,0 +1,220 @@
+2023-10-10T14:34:33.754Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T14:34:33.756Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T14:35:29.259Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-10T14:35:29.264Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T14:35:29.271Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-10T14:37:02.109Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T14:37:12.295Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T14:40:09.305Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T14:40:41.114Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T14:40:41.120Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T14:40:41.121Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T14:41:33.052Z - Unhandled rejection at: Promise [object Promise] reason: ReferenceError: error is not defined
+2023-10-10T14:45:21.978Z - Uncaught exception: Error: Intentional Crash!
+2023-10-10T14:45:59.502Z - Unhandled rejection at: Promise [object Promise] reason: Error: Intentional Crash!
+2023-10-10T14:56:03.212Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-10T15:02:21.071Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-10T15:03:50.852Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T15:03:50.862Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T15:03:50.875Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T15:03:50.919Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-10T16:29:48.019Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-10T21:04:01.074Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-10T22:26:49.053Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-11T00:56:28.267Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-11T22:28:16.463Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-11T23:17:53.225Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-12T01:28:45.107Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-12T15:47:03.905Z - Uncaught exception: SyntaxError: Identifier 'Usables' has already been declared
+2023-10-12T15:47:08.711Z - Uncaught exception: SyntaxError: Identifier 'Usables' has already been declared
+2023-10-12T15:47:27.408Z - Uncaught exception: SyntaxError: Identifier 'Usables' has already been declared
+2023-10-12T18:32:55.322Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-13T02:25:32.864Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-13T02:25:39.140Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-13T02:26:11.235Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-13T02:26:43.740Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-10-13T15:25:41.282Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-14T00:48:45.896Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-14T02:17:51.864Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-14T03:07:03.702Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[50035]: Invalid Form Body
+components[0].components[BASE_TYPE_BAD_LENGTH]: Must be between 1 and 5 in length.
+2023-10-14T03:07:21.880Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[50035]: Invalid Form Body
+components[0].components[BASE_TYPE_BAD_LENGTH]: Must be between 1 and 5 in length.
+2023-10-14T05:03:08.236Z - Unhandled rejection at: Promise [object Promise] reason: ReferenceError: math is not defined
+2023-10-14T05:04:06.461Z - Unhandled rejection at: Promise [object Promise] reason: ReferenceError: math is not defined
+2023-10-14T05:04:18.299Z - Unhandled rejection at: Promise [object Promise] reason: ReferenceError: math is not defined
+2023-10-14T05:04:40.640Z - Unhandled rejection at: Promise [object Promise] reason: ReferenceError: math is not defined
+2023-10-15T02:30:02.815Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-16T01:52:34.400Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-16T01:58:54.719Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[50035]: Invalid Form Body
+components[0].components[BASE_TYPE_BAD_LENGTH]: Must be between 1 and 5 in length.
+2023-10-16T02:49:54.928Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-10-16T02:49:54.954Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-10-16T02:49:55.092Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:49:57.483Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-16T02:49:57.521Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:49:57.543Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:49:59.763Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:49:59.773Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:49:59.821Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:50:01.534Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:50:01.537Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:50:01.543Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:50:03.245Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:50:03.247Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:50:03.268Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:50:04.857Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:50:04.871Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:50:04.890Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:50:14.008Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T02:50:14.029Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-16T02:50:14.062Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-16T15:41:11.901Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-16T15:43:31.333Z - Unhandled rejection at: Promise [object Promise] reason: TypeError: effects.filter is not a function
+2023-10-16T15:55:51.644Z - Unhandled rejection at: Promise [object Promise] reason: TypeError: effects.filter is not a function
+2023-10-16T16:06:48.275Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T16:12:36.544Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T16:17:06.419Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T16:20:06.679Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T16:23:41.292Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T16:29:05.774Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T16:31:42.884Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T16:33:40.583Z - Unhandled rejection at: Promise [object Promise] reason: ReferenceError: actionSequences is not defined
+2023-10-16T16:38:08.280Z - Unhandled rejection at: Promise [object Promise] reason: ReferenceError: actionSequences is not defined
+2023-10-16T17:00:45.655Z - Unhandled rejection at: Promise [object Promise] reason: ReferenceError: actionSequences is not defined
+2023-10-16T17:10:40.773Z - Unhandled rejection at: Promise [object Promise] reason: TypeError: Assignment to constant variable.
+2023-10-16T17:10:40.774Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T17:18:33.953Z - Unhandled rejection at: Promise [object Promise] reason: TypeError: Assignment to constant variable.
+2023-10-16T17:18:33.953Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T17:21:30.560Z - Unhandled rejection at: Promise [object Promise] reason: TypeError: Assignment to constant variable.
+2023-10-16T17:21:30.561Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T17:23:56.174Z - Unhandled rejection at: Promise [object Promise] reason: TypeError: Assignment to constant variable.
+2023-10-16T17:23:56.174Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T17:39:06.536Z - Unhandled rejection at: Promise [object Promise] reason: TypeError: Assignment to constant variable.
+2023-10-16T17:39:06.536Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T17:42:02.968Z - Unhandled rejection at: Promise [object Promise] reason: ReferenceError: playerChosen is not defined
+2023-10-16T17:48:41.422Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T17:51:17.212Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T17:52:52.387Z - Unhandled rejection at: Promise [object Promise] reason: Error: Received one or more errors
+2023-10-16T19:02:13.988Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T19:02:16.754Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T19:02:22.662Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T19:02:34.217Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-16T19:02:36.350Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T19:02:38.747Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T19:02:45.766Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-16T19:07:37.820Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-16T19:45:49.049Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T19:45:57.650Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T20:02:50.991Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T20:03:03.176Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T20:03:06.315Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T20:03:08.627Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-16T20:03:11.159Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-16T20:03:15.487Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-16T20:03:21.643Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-16T20:17:32.178Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[50027]: Invalid Webhook Token
+2023-10-16T21:53:29.547Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-17T04:16:20.562Z - Unhandled rejection at: Promise [object Promise] reason: ReferenceError: previousAction is not defined
+2023-10-18T01:59:03.399Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-18T23:52:54.009Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-19T04:05:14.471Z - Uncaught exception: Error: read ECONNRESET
+2023-10-19T04:05:14.473Z - Uncaught exception: Error: read ECONNRESET
+2023-10-19T04:05:14.474Z - Uncaught exception: Error: read ECONNRESET
+2023-10-19T17:28:12.316Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-10-21T01:21:43.243Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-21T01:21:43.252Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-10-21T06:13:16.746Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-21T06:13:26.814Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-21T21:28:40.725Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-21T21:29:10.191Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-21T21:29:29.651Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-21T21:29:29.652Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-21T21:29:30.100Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-21T21:29:30.133Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-25T02:16:49.151Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-25T02:17:09.577Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-10-27T02:12:22.494Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-11-01T03:12:56.698Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-02T04:17:08.646Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-02T17:44:37.980Z - Unhandled rejection at: Promise [object Promise] reason: ConnectTimeoutError: Connect Timeout Error
+2023-11-02T17:44:51.985Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-02T17:44:59.094Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-02T17:44:59.119Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-02T17:44:59.192Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-02T17:44:59.233Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-02T17:44:59.417Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-05T01:29:38.085Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[50035]: Invalid Form Body
+components[0].components[BASE_TYPE_BAD_LENGTH]: Must be between 1 and 5 in length.
+2023-11-05T22:00:11.181Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-10T23:18:33.139Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-11-10T23:18:35.188Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-10T23:18:36.636Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-10T23:18:38.900Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-12T21:08:54.508Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-12T21:08:56.913Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-12T21:08:58.884Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-12T21:09:01.348Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-12T21:09:04.658Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-11-12T21:09:09.073Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-12T21:09:12.892Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-12T21:09:15.298Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-12T21:09:17.699Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-13T18:26:38.122Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-17T02:45:02.220Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-17T02:45:07.960Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-17T05:23:13.675Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-20T18:33:33.827Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[50035]: Invalid Form Body
+components[0].components[BASE_TYPE_BAD_LENGTH]: Must be between 1 and 5 in length.
+2023-11-21T00:49:03.366Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-11-21T02:45:04.419Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[50035]: Invalid Form Body
+components[0].components[BASE_TYPE_BAD_LENGTH]: Must be between 1 and 5 in length.
+2023-11-28T00:25:10.545Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-11-28T00:26:48.445Z - Unhandled rejection at: Promise [object Promise] reason: TypeError: Cannot read properties of undefined (reading 'id')
+2023-11-29T04:04:44.975Z - Unhandled rejection at: Promise [object Promise] reason: VersionError: No matching document found for id "65232ea74bbd6660b0a34570" version 3904 modifiedPaths "huntingXp, balance, huntTokens"
+2023-11-30T01:01:22.277Z - Unhandled rejection at: Promise [object Promise] reason: TypeError: Cannot read properties of undefined (reading 'id')
+2023-11-30T01:07:47.579Z - Unhandled rejection at: Promise [object Promise] reason: TypeError: Cannot read properties of undefined (reading 'id')
+2023-12-01T06:07:20.670Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-12-01T06:07:20.706Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T06:07:27.105Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T06:07:28.838Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T06:07:30.649Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T06:07:36.260Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T06:07:38.088Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:43:49.260Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T18:43:52.587Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:43:54.612Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T18:43:56.414Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:43:58.340Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:45:26.203Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T18:45:29.167Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T18:45:32.006Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T18:45:36.777Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:47:14.983Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T18:47:16.822Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T18:47:21.698Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T18:47:32.811Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-12-01T18:47:39.844Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:47:41.555Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:47:43.405Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:47:46.422Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T18:47:48.119Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:47:49.970Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:49:15.121Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10062]: Unknown interaction
+2023-12-01T18:49:19.803Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-12-01T18:49:22.509Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:49:24.402Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:49:27.003Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-01T18:49:28.991Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2023-12-02T05:57:14.679Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2023-12-02T05:57:28.073Z - Unhandled rejection at: Promise [object Promise] reason: Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+2024-09-20T14:47:53.637Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10008]: Unknown Message
+2024-09-20T14:47:53.797Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[10008]: Unknown Message
+2024-09-24T00:52:46.752Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2024-09-24T00:52:53.012Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2024-09-24T00:52:55.585Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2024-09-24T00:53:01.029Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[40060]: Interaction has already been acknowledged.
+2024-09-24T05:04:46.256Z - Uncaught exception: Error: Opening handshake has timed out
+2024-09-24T05:05:16.259Z - Unhandled rejection at: Promise [object Promise] reason: MongoServerSelectionError: getaddrinfo ENOTFOUND ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net
+2024-09-27T16:05:08.925Z - Unhandled rejection at: Promise [object Promise] reason: DiscordAPIError[50035]: Invalid Form Body
+components[0].components[BASE_TYPE_BAD_LENGTH]: Must be between 1 and 5 in length.

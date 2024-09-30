@@ -1,0 +1,1921 @@
+2023-10-10 10:55:31: (node:20744) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 10:55:31: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-10 19:11:42: (node:12460) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 19:11:42: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-10 19:43:22: (node:18588) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 19:43:22: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-10 21:03:26: (node:17672) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 21:03:26: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-10 21:30:48: (node:8836) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 21:30:48: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-10 21:56:42: (node:4888) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 21:56:42: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-10 23:06:08: (node:23488) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 23:06:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-10 23:07:40: (node:25620) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 23:07:40: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-10 23:22:29: (node:3400) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 23:22:29: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-10 23:25:06: (node:21876) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 23:25:06: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-10 23:49:54: (node:23968) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 23:49:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-10 23:57:25: (node:28700) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-10 23:57:25: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-11 00:06:42: Error in /leaderboard: TypeError: Cannot read properties of undefined (reading 'id')
+2023-10-11 00:09:50: Error in /leaderboard: ReferenceError: type is not defined
+2023-10-11 00:10:01: Error in /leaderboard: ReferenceError: type is not defined
+2023-10-11 00:11:48: Error in /leaderboard: ReferenceError: type is not defined
+2023-10-11 00:12:45: Error in /leaderboard: ReferenceError: type is not defined
+2023-10-11 00:16:00: (node:14008) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-11 00:16:00: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-11 00:46:41: (node:18452) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-11 00:46:41: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-11 10:51:02: (node:10024) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-11 10:51:02: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-11 11:22:32: (node:22632) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-11 11:22:32: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-11 11:24:46: (node:2692) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-11 11:24:46: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-11 11:51:15: (node:23100) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-11 11:51:15: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-11 12:21:31: (node:6236) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-11 12:21:31: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-11 21:03:10: (node:34148) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-11 21:03:10: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-11 21:53:32: (node:33280) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-11 21:53:32: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-11 22:07:50: (node:13000) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-11 22:07:50: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-11 23:07:23: (node:4512) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-11 23:07:23: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 00:21:19: (node:29248) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 00:21:19: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 00:52:32: (node:8056) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 00:52:32: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 10:31:23: Error with the steal command: TypeError: Cannot read properties of null (reading 'id')
+2023-10-12 10:31:23:     at Object.callback (C:\Users\crims\Documents\Development\Dauntless\src\commands\economy\scorecard.js:32:66)
+2023-10-12 10:31:23:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-12 10:31:23:     at async module.exports (C:\Users\crims\Documents\Development\Dauntless\src\events\interactionCreate\handleCommands.js:62:5)
+2023-10-12 10:31:23:     at async Client.<anonymous> (C:\Users\crims\Documents\Development\Dauntless\src\handlers\eventHandler.js:16:9)
+2023-10-12 10:32:21: Error with the steal command: TypeError: Cannot read properties of null (reading 'id')
+2023-10-12 10:32:21:     at Object.callback (C:\Users\crims\Documents\Development\Dauntless\src\commands\economy\scorecard.js:32:66)
+2023-10-12 10:32:21:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-12 10:32:21:     at async module.exports (C:\Users\crims\Documents\Development\Dauntless\src\events\interactionCreate\handleCommands.js:62:5)
+2023-10-12 10:32:21:     at async Client.<anonymous> (C:\Users\crims\Documents\Development\Dauntless\src\handlers\eventHandler.js:16:9)
+2023-10-12 10:33:25: (node:13128) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 10:33:25: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 10:46:12: (node:12964) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 10:46:12: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 11:04:06: (node:11184) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 11:04:06: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 11:07:47: ReferenceError: Equipment is not defined
+2023-10-12 11:07:47:     at Object.callback (C:\Users\crims\Documents\Development\Dauntless\src\commands\economy\slots.js:157:40)
+2023-10-12 11:07:47:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-12 11:07:47:     at async module.exports (C:\Users\crims\Documents\Development\Dauntless\src\events\interactionCreate\handleCommands.js:62:5)
+2023-10-12 11:07:47:     at async Client.<anonymous> (C:\Users\crims\Documents\Development\Dauntless\src\handlers\eventHandler.js:16:9)
+2023-10-12 11:27:04: TypeError: Equipment.findOne is not a function
+2023-10-12 11:27:04:     at Object.callback (C:\Users\crims\Documents\Development\Dauntless\src\commands\economy\slots.js:159:56)
+2023-10-12 11:27:04:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-12 11:27:04:     at async module.exports (C:\Users\crims\Documents\Development\Dauntless\src\events\interactionCreate\handleCommands.js:62:5)
+2023-10-12 11:27:04:     at async Client.<anonymous> (C:\Users\crims\Documents\Development\Dauntless\src\handlers\eventHandler.js:16:9)
+2023-10-12 11:27:24: (node:13552) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 11:27:24: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 11:52:32: (node:16844) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 11:52:32: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 14:04:12: Error in /trade: TypeError: Cannot read properties of undefined (reading 'customId')
+2023-10-12 14:06:38: Error in /trade: TypeError: Cannot read properties of undefined (reading 'customId')
+2023-10-12 18:49:50: (node:20936) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 18:49:50: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 18:55:51: ReferenceError: bank is not defined
+2023-10-12 18:55:51:     at Object.callback (C:\Users\crims\Documents\Development\Dauntless\src\commands\economy\slots.js:172:25)
+2023-10-12 18:55:51:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-12 18:55:51:     at async module.exports (C:\Users\crims\Documents\Development\Dauntless\src\events\interactionCreate\handleCommands.js:62:5)
+2023-10-12 18:55:51:     at async Client.<anonymous> (C:\Users\crims\Documents\Development\Dauntless\src\handlers\eventHandler.js:16:9)
+2023-10-12 21:06:52: ReferenceError: bank is not defined
+2023-10-12 21:06:52:     at Object.callback (C:\Users\crims\Documents\Development\Dauntless\src\commands\economy\slots.js:172:25)
+2023-10-12 21:06:52:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-12 21:06:52:     at async module.exports (C:\Users\crims\Documents\Development\Dauntless\src\events\interactionCreate\handleCommands.js:62:5)
+2023-10-12 21:06:52:     at async Client.<anonymous> (C:\Users\crims\Documents\Development\Dauntless\src\handlers\eventHandler.js:16:9)
+2023-10-12 21:09:31: ReferenceError: bank is not defined
+2023-10-12 21:09:31:     at Object.callback (C:\Users\crims\Documents\Development\Dauntless\src\commands\economy\slots.js:172:25)
+2023-10-12 21:09:31:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-12 21:09:31:     at async module.exports (C:\Users\crims\Documents\Development\Dauntless\src\events\interactionCreate\handleCommands.js:62:5)
+2023-10-12 21:09:31:     at async Client.<anonymous> (C:\Users\crims\Documents\Development\Dauntless\src\handlers\eventHandler.js:16:9)
+2023-10-12 21:11:12: (node:10420) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 21:11:12: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 22:12:38: (node:21944) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 22:12:38: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 22:26:20: (node:25276) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 22:26:20: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 22:34:32: (node:8568) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 22:34:32: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 22:50:09: (node:19916) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 22:50:09: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-12 23:07:48: (node:26264) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-12 23:07:48: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 00:00:46: (node:15988) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 00:00:46: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 00:30:51: (node:20656) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 00:30:51: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 01:04:56: (node:2752) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 01:04:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 11:06:45: (node:21292) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 11:06:45: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 12:02:16: (node:17792) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 12:02:16: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 12:03:57: (node:24684) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 12:03:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 13:19:57: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-13 14:21:47: (node:2512) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 14:21:47: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 14:42:27: (node:8788) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 14:42:27: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 14:52:23: (node:22280) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 14:52:23: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 14:59:23: ReferenceError: axios is not defined
+2023-10-13 14:59:23:     at generateLineGraphURL (C:\Users\crims\Documents\Development\Dauntless\src\commands\economy\balance.js:55:22)
+2023-10-13 14:59:23:     at Object.callback (C:\Users\crims\Documents\Development\Dauntless\src\commands\economy\balance.js:99:40)
+2023-10-13 14:59:23:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-13 14:59:23:     at async module.exports (C:\Users\crims\Documents\Development\Dauntless\src\events\interactionCreate\handleCommands.js:62:5)
+2023-10-13 14:59:23:     at async Client.<anonymous> (C:\Users\crims\Documents\Development\Dauntless\src\handlers\eventHandler.js:16:9)
+2023-10-13 15:06:28: (node:9664) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 15:06:28: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 15:14:09: (node:20256) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 15:14:09: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 15:46:57: (node:22444) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 15:46:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 19:34:20: (node:12120) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 19:34:20: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-13 21:21:53: Error in /trade: ValidationError: type: Path `type` is required., rank: Path `rank` is required.
+2023-10-13 21:24:29: Error in /trade: TypeError: Cannot read properties of undefined (reading 'customId')
+2023-10-13 21:28:00: Error in /trade: ValidationError: type: Path `type` is required., rank: Path `rank` is required.
+2023-10-13 23:29:24: Error in /trade: TypeError: Cannot read properties of undefined (reading 'customId')
+2023-10-13 23:31:13: Error in /trade: ValidationError: type: Path `type` is required., rank: Path `rank` is required.
+2023-10-13 23:41:31: (node:10404) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-13 23:41:31: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 00:00:20: (node:10844) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 00:00:20: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 00:31:30: (node:18544) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 00:31:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 01:02:57: (node:25680) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 01:02:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 01:19:48: (node:23684) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 01:19:48: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 01:44:49: (node:25616) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 01:44:49: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 02:48:27: (node:5312) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 02:48:27: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 03:00:36: Error in /forge view: ReferenceError: string is not defined
+2023-10-14 03:02:52: Error in /forge view: ReferenceError: string is not defined
+2023-10-14 03:06:36: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 03:07:15: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 03:11:57: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-14 03:13:52: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 03:14:54: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 03:16:58: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 03:18:18: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 03:26:09: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 03:36:11: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-14 03:37:05: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-14 03:38:21: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-14 03:43:11: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-14 12:56:29: Error in /forge view: TypeError: newItemDatabase.save is not a function
+2023-10-14 13:49:25: (node:7452) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 13:49:25: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 15:29:48: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-14 15:30:07: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-14 15:30:50: Error in /forge view: ReferenceError: Invalid left-hand side in assignment
+2023-10-14 15:31:00: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 15:31:15: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 15:38:35: Error in /forge view: ReferenceError: Invalid left-hand side in assignment
+2023-10-14 15:38:46: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 16:10:43: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 16:49:45: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 17:30:34: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 17:35:28: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-14 17:37:18: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-14 17:37:25: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-14 17:37:42: Error in /forge view: TypeError: Cannot destructure property 'item' of '(intermediate value)' as it is null.
+2023-10-14 17:40:43: Error in /forge view: ReferenceError: Invalid left-hand side in assignment
+2023-10-14 17:41:40: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 17:56:22: (node:12404) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 17:56:22: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 18:07:40: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 18:44:52: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-10-14 18:52:22: Error in /forge view: ReferenceError: Invalid left-hand side in assignment
+2023-10-14 19:00:59: Error in /forge view: ReferenceError: Invalid left-hand side in assignment
+2023-10-14 19:01:54: Error in /forge view: TypeError: Cannot read properties of undefined (reading 'push')
+2023-10-14 19:02:31: Error in /forge view: TypeError: Cannot read properties of undefined (reading 'push')
+2023-10-14 19:06:35: Error in /forge view: TypeError: Cannot read properties of undefined (reading 'push')
+2023-10-14 19:10:29: Error in /forge view: TypeError: Cannot read properties of undefined (reading 'refModel')
+2023-10-14 19:15:29: Error in /forge view: ReferenceError: Invalid left-hand side in assignment
+2023-10-14 19:17:51: (node:18540) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 19:17:51: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 19:26:07: Error in /forge view: ReferenceError: Invalid left-hand side in assignment
+2023-10-14 19:52:53: (node:6608) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 19:52:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 20:20:39: (node:23520) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 20:20:39: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 20:36:55: Error in /trade: ValidationError: type: Path `type` is required., rank: Path `rank` is required.
+2023-10-14 20:59:07: (node:24920) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 20:59:07: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 21:31:22: (node:21584) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 21:31:22: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 21:35:34: (node:23024) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 21:35:34: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 22:18:49: (node:14588) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 22:18:49: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 22:33:02: Error in /trade: TypeError: Cannot read properties of undefined (reading 'customId')
+2023-10-14 22:49:58: (node:22900) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 22:49:58: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 23:06:02: (node:17584) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 23:06:02: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 23:27:54: (node:5804) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 23:27:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-14 23:46:38: (node:9748) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-14 23:46:38: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 00:15:44: (node:8884) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 00:15:44: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 00:47:52: (node:16836) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 00:47:52: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 01:04:21: Error in /trade: TypeError: Cannot read properties of undefined (reading 'customId')
+2023-10-15 01:09:37: Error in /trade: TypeError: Cannot read properties of undefined (reading 'customId')
+2023-10-15 01:31:51: (node:14944) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 01:31:51: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 11:47:07: (node:27220) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 11:47:07: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 16:37:23: Error in /trade: ValidationError: type: Path `type` is required., rank: Path `rank` is required.
+2023-10-15 18:22:06: (node:20772) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 18:22:06: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 18:45:30: (node:21784) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 18:45:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 19:13:34: (node:8344) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 19:13:34: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 19:29:17: (node:11000) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 19:29:17: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 19:47:26: (node:20464) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 19:47:26: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 20:51:32: (node:17008) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 20:51:32: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 20:58:44: (node:16892) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 20:58:44: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 21:14:49: Error in /trade: TypeError: Cannot read properties of undefined (reading 'customId')
+2023-10-15 21:47:11: (node:7720) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 21:47:11: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 21:57:29: (node:23944) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 21:57:29: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 22:46:09: (node:9308) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 22:46:09: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-15 22:48:30: (node:11952) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-15 22:48:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 11:42:30: (node:4320) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 11:42:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 11:52:58: (node:20772) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 11:52:58: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 11:54:51: (node:10728) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 11:54:51: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 12:05:47: (node:12244) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 12:05:47: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 12:11:35: (node:24252) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 12:11:35: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 12:16:05: (node:14820) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 12:16:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 12:19:06: (node:3320) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 12:19:06: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 12:21:48: (node:18964) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 12:21:48: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 12:27:47: (node:16356) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 12:27:47: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 12:30:36: (node:10256) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 12:30:36: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 12:32:36: (node:22852) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 12:32:36: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 12:37:05: (node:5092) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 12:37:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 12:58:44: (node:3988) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 12:58:44: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 13:04:01: (node:22388) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 13:04:01: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 13:09:27: (node:26036) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 13:09:27: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 13:14:24: (node:24208) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 13:14:24: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 13:17:22: (node:13004) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 13:17:22: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 13:19:43: (node:16208) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 13:19:43: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 13:22:18: (node:7656) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 13:22:18: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 13:37:39: (node:26296) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 13:37:39: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 13:40:50: (node:4252) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 13:40:50: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 13:47:35: (node:27540) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 13:47:35: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 13:50:04: (node:21968) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 13:50:04: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 13:51:40: (node:19924) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 13:51:40: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 14:00:25: (node:17044) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 14:00:25: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 14:04:36: (node:4020) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 14:04:36: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 14:13:47: (node:11292) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 14:13:47: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 14:18:12: (node:12880) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 14:18:12: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 14:20:13: (node:26524) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 14:20:13: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 14:26:45: (node:16972) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 14:26:45: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 15:58:01: (node:19008) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 15:58:01: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 18:23:58: (node:13836) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 18:23:58: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 18:29:28: (node:19808) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 18:29:28: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 19:12:45: (node:21796) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 19:12:45: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 19:35:01: (node:15712) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 19:35:01: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-16 23:05:29: (node:18784) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-16 23:05:29: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-17 00:12:55: (node:17608) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-17 00:12:55: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-17 00:24:37: (node:12808) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-17 00:24:37: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-17 00:47:47: (node:18516) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-17 00:47:47: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-17 01:33:32: (node:7792) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-17 01:33:32: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-17 01:50:26: (node:16300) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-17 01:50:26: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-17 02:10:39: (node:27252) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-17 02:10:39: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-17 10:59:45: (node:18456) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-17 10:59:45: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-17 19:33:24: (node:8076) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-17 19:33:24: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-17 20:10:18: (node:17768) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-17 20:10:18: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-17 22:13:17: (node:27340) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-17 22:13:17: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-18 01:05:58: (node:21752) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-18 01:05:58: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-18 11:46:49: (node:11724) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-18 11:46:49: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-18 16:26:17: (node:10776) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-18 16:26:17: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-18 17:20:06: (node:9828) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-18 17:20:06: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-18 22:15:31: (node:29972) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-18 22:15:31: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-19 10:28:25: (node:28476) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-19 10:28:25: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-20 11:25:41: (node:27216) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-20 11:25:41: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-20 13:24:33: Error in /trade: TypeError: Cannot read properties of undefined (reading 'customId')
+2023-10-20 13:40:05: Error in /trade: TypeError: Cannot read properties of undefined (reading 'customId')
+2023-10-20 13:51:42: Error in /trade: TypeError: Cannot read properties of undefined (reading 'customId')
+2023-10-20 14:24:32: (node:22256) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-20 14:24:32: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-20 14:25:29: (node:28372) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-20 14:25:29: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-20 14:25:48: (node:27984) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-20 14:25:48: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-21 01:39:40: (node:888) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-21 01:39:40: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-21 02:16:18: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-10-21 02:16:18:     at ChatInputCommandInteraction.deferReply (C:\Users\crims\Documents\Development\Dauntless\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:67:46)
+2023-10-21 02:16:18:     at Object.callback (C:\Users\crims\Documents\Development\Dauntless\src\commands\economy\slots.js:81:35)
+2023-10-21 02:16:18:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-21 02:16:18:     at async module.exports (C:\Users\crims\Documents\Development\Dauntless\src\events\interactionCreate\handleCommands.js:62:5)
+2023-10-21 02:16:18:     at async Client.<anonymous> (C:\Users\crims\Documents\Development\Dauntless\src\handlers\eventHandler.js:16:9) {
+2023-10-21 02:16:18:   code: 'InteractionAlreadyReplied'
+2023-10-21 02:16:18: }
+2023-10-21 02:17:40: (node:28272) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-21 02:17:40: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-21 02:20:05: (node:11768) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-21 02:20:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-23 02:08:22: Error with the steal command: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-10-23 02:08:22:     at ChatInputCommandInteraction.deferReply (C:\Users\crims\Documents\Development\Dauntless\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:67:46)
+2023-10-23 02:08:22:     at Object.callback (C:\Users\crims\Documents\Development\Dauntless\src\commands\economy\steal.js:41:35)
+2023-10-23 02:08:22:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-23 02:08:22:     at async module.exports (C:\Users\crims\Documents\Development\Dauntless\src\events\interactionCreate\handleCommands.js:62:5)
+2023-10-23 02:08:22:     at async Client.<anonymous> (C:\Users\crims\Documents\Development\Dauntless\src\handlers\eventHandler.js:16:9) {
+2023-10-23 02:08:22:   code: 'InteractionAlreadyReplied'
+2023-10-23 02:08:22: }
+2023-10-23 02:10:18: (node:27988) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-23 02:10:18: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-23 15:31:51: 
+2023-10-23 15:31:51: <--- Last few GCs --->
+2023-10-23 15:31:51: 
+2023-10-23 15:31:51: [14112:000001A0D17556E0] 273999744 ms: Scavenge 15.3 (19.6) -> 14.4 (19.6) MB, 0.2 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+2023-10-23 15:31:51: [14112:000001A0D17556E0] 274001735 ms: Scavenge 15.3 (19.6) -> 14.4 (19.6) MB, 0.5 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+2023-10-23 15:31:51: [14112:000001A0D17556E0] 274003722 ms: Scavenge 15.3 (19.6) -> 14.3 (19.6) MB, 0.1 / 0.0 ms  (average mu = 1.000, current mu = 1.000) task; 
+2023-10-23 15:31:51: 
+2023-10-23 15:31:51: 
+2023-10-23 15:31:51: <--- JS stacktrace --->
+2023-10-23 15:31:51: 
+2023-10-23 15:31:51: FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+2023-10-23 15:31:51:  1: 00007FF7CFE9234F 
+2023-10-23 15:31:51:  2: 00007FF7CFE16986 
+2023-10-23 15:31:51:  3: 00007FF7CFE18693 
+2023-10-23 15:31:51:  4: 00007FF7D0956411 
+2023-10-23 15:31:51: 007FF7D0941066 
+2023-10-23 15:31:51:  6: 00007FF7D07A7770 
+2023-10-23 15:31:51:  7: 00007FF7D075EB53 
+2023-10-23 15:31:51:  8: 00007FF7D07B129C 
+2023-10-23 15:31:51:  9: 00007FF7D07A3FA3 
+2023-10-23 15:31:51: 10: 00007FF7D074CA37 
+2023-10-23 15:31:51: 11: 00007FF7CFDAA183 
+2023-10-23 15:31:51: 12: 00007FF7CFDA8BA6 
+2023-10-23 15:31:51: 13: 00007FF7CFEF3EAB 
+2023-10-23 15:31:51: 14: 00007FF7CFEF39F2 
+2023-10-23 15:31:51: 15: 00007FF7CFEC5FE5 
+2023-10-23 15:31:51: 16: 00007FF7CFDCD378 
+2023-10-23 15:31:51: 17: 00007FF7CFE52B6E 
+2023-10-23 15:31:51: 18: 00007FF7CFE54E2E 
+2023-10-23 15:31:51: 19: 00007FF7CFE54070 
+2023-10-23 15:31:51: 20: 00007FF7CFC5E44C 
+2023-10-23 15:31:51: 21: 00007FF7D0FC1424 
+2023-10-23 15:31:51: 22: 00007FFF59EA257
+2023-10-23 15:31:51: D BaseThreadInitThunk+29
+2023-10-23 15:31:51: 23: 00007FFF5AA6AA78 RtlUserThreadStart+40
+2023-10-23 15:31:56: 
+2023-10-23 15:31:56: 
+2023-10-23 15:31:56: #
+2023-10-23 15:31:56: 0
+2023-10-23 15:31:56: # Fatal process out of memory: Zone
+2023-10-23 15:31:56: #
+2023-10-23 15:31:56: #
+2023-10-23 15:31:56: #
+2023-10-23 15:31:56: #FailureMessage Object: 0000003D1FDF59D0
+2023-10-23 15:31:56:  1: 00007FF7CFE9234F 
+2023-10-23 15:31:56:  2: 00007FF7CFDA67EF 
+2023-10-23 15:31:56:  3: 00007FF7D0D08C92 
+2023-10-23 15:31:56:  4: 00007FF7D0940E71 
+2023-10-23 15:31:56:  5: 00007FF7D040F584 
+2023-10-23 15:31:56:  6: 00007FF7D0DB82C4 
+2023-10-23 15:31:56:  7: 00007FF7D0DD7629 
+2023-10-23 15:31:56:  8: 00007FF7D0DD59E1 
+2023-10-23 15:31:56:  9: 00007FF7D0E53D5B 
+2023-10-23 15:31:56: 10: 00007FF7D0E53A81 
+2023-10-23 15:31:56: : 00007FF7D0E001D7 
+2023-10-23 15:31:56: 12: 00007FF7D0DCCAC1 
+2023-10-23 15:31:56: 13: 00007FF7D0DFFDE4 
+2023-10-23 15:31:56: 14: 00007FF7D0E00486 
+2023-10-23 15:31:56: 15: 00007FF7D0E00272 
+2023-10-23 15:31:56: 16: 00007FF7D0DD17D7 
+2023-10-23 15:31:56: 17: 00007FF7D0DCAE95 
+2023-10-23 15:31:56: 18: 00007FF7D0DC27DA 
+2023-10-23 15:31:56: 19: 00007FF7D08B2121 
+2023-10-23 15:31:56: 20: 00007FF7D087FFA4 
+2023-10-23 15:31:56: 21: 00007FF7D0880856 
+2023-10-23 15:31:56: 22: 00007FF7CFDA924D 
+2023-10-23 15:31:56: 23: 00007FF7CFEE3CFD 
+2023-10-23 15:31:56: 24: 00007FF7D0FE19C0 
+2023-10-23 15:31:56: 25: 00007FFF59EA257D 
+2023-10-23 15:31:56: 26: 00007FFF5AA6AA78 
+2023-10-23 15:31:59: Error: spawn UNKNOWN
+2023-10-23 15:31:59:     at ChildProcess.spawn (node:internal/child_process:420:11)
+2023-10-23 15:31:59:     at spawn (node:child_process:757:9)
+2023-10-23 15:31:59:     at fork (node:child_process:170:10)
+2023-10-23 15:31:59:     at Object.run (C:\Users\crims\Documents\Development\Dauntless\node_modules\nodemon\lib\monitor\run.js:138:13)
+2023-10-23 15:31:59:     at C:\Users\crims\Documents\Development\Dauntless\node_modules\nodemon\lib\nodemon.js:240:13
+2023-10-23 15:31:59:     at C:\Users\crims\Documents\Development\Dauntless\node_modules\nodemon\lib\config\index.js:82:7
+2023-10-23 15:31:59: Error: spawn UNKNOWN
+2023-10-23 15:31:59:     at ChildProcess.spawn (node:internal/child_process:420:11)
+2023-10-23 15:31:59:     at spawn (node:child_process:757:9)
+2023-10-23 15:31:59:     at fork (node:child_process:170:10)
+2023-10-23 15:31:59:     at Object.run (C:\Users\crims\Documents\Development\Dauntless\node_modules\nodemon\lib\monitor\run.js:138:13)
+2023-10-23 15:31:59:     at C:\Users\crims\Documents\Development\Dauntless\node_modules\nodemon\lib\nodemon.js:240:13
+2023-10-23 15:31:59:     at C:\Users\crims\Documents\Development\Dauntless\node_modules\nodemon\lib\config\index.js:82:7 {
+2023-10-23 15:31:59:   errno: -4094,
+2023-10-23 15:31:59:   code: 'UNKNOWN',
+2023-10-23 15:31:59:   syscall: 'spawn'
+2023-10-23 15:31:59: }
+2023-10-23 15:32:05: 
+2023-10-23 15:32:05: 
+2023-10-23 15:32:05: #
+2023-10-23 15:32:05: # Fatal error in , line 0
+2023-10-23 15:32:05: l process out of memory: Zone
+2023-10-23 15:32:05: #
+2023-10-23 15:32:05: #
+2023-10-23 15:32:05: #
+2023-10-23 15:32:05: #FailureMessage Object: 0000002956DF5740
+2023-10-23 15:32:05: 
+2023-10-23 15:32:05: <--- Last few GCs --->
+2023-10-23 15:32:05: 
+2023-10-23 15:32:05: [22936:00000209D7539F50]     1006 ms: Scavenge 25.7 (35.1) -> 21.1 (37.4) MB, 1.6 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+2023-10-23 15:32:05: [22936:00000209D7539F50]     1116 ms: Scavenge 29.6 (38.8) -> 23.6 (56.0) MB, 2.0 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+2023-10-23 15:32:05: 
+2023-10-23 15:32:05: 
+2023-10-23 15:32:05: <--- JS stacktrace --->
+2023-10-23 15:32:05: 
+2023-10-23 15:32:05: FATAL ERROR: Zone Allocation failed - process out of memory
+2023-10-23 15:32:05:  1: 00007FF7CFE9234F 
+2023-10-23 15:32:05:  1: 00007FF7CFE9234F 
+2023-10-23 15:32:05:  2: 00007FF7CFE16986 
+2023-10-23 15:32:05:  2: 00007FF7CFDA67EF 
+2023-10-23 15:32:05:  3: 00007FF7CFE18693 
+2023-10-23 15:32:05: 0D08C92 
+2023-10-23 15:32:05:  4: 00007FF7D0956411 
+2023-10-23 15:32:05:  5: 00007FF7D0941066 
+2023-10-23 15:32:05:  4: 00007FF7D0940E71 
+2023-10-23 15:32:05:  5: 00007FF7D040F584 
+2023-10-23 15:32:05:  6: 00007FF7D040F584 
+2023-10-23 15:32:05:  6: 00007FF7D0D53893 
+2023-10-23 15:32:05:  7: 00007FF7D06F2752 
+2023-10-23 15:32:05:  7: 00007FF7D0D900A6 
+2023-10-23 15:32:05:  8: 00007FF7D06F18D3 
+2023-10-23 15:32:05:  8: 00007FF7D0D9F001 
+2023-10-23 15:32:05:  9: 00007FF7D03043BF 
+2023-10-23 15:32:05:  9: 00007FF7D06EB11A 
+2023-10-23 15:32:05: 10: 00007FF7D0304F7D 
+2023-10-23 15:32:05: 10: 00007FF7D06EB2BF 
+2023-10-23 15:32:05: 11: 00007FF7D02E81B6 
+2023-10-23 15:32:05: 11: 00007FF7D06EBEE5 
+2023-10-23 15:32:05: 12: 00007FF7D06F1A67 
+2023-10-23 15:32:05: F7D02EB21F 
+2023-10-23 15:32:05: 13: 00007FF7D02EF8F4 
+2023-10-23 15:32:05: 13: 00007FF7D06EB11A 
+2023-10-23 15:32:05: 14: 00007FF7D02EA5F0 
+2023-10-23 15:32:05: 14: 00007FF7D06EE2BB 
+2023-10-23 15:32:05: 15: 00007FF7D02E8ED3 
+2023-10-23 15:32:05: 15: 00007FF7D06F1912 
+2023-10-23 15:32:05: 16: 00007FF7D0D9FDA7 
+2023-10-23 15:32:05: 16: 00007FF7D06EB11A 
+2023-10-23 15:32:05: 17: 00007FF7D0309B99 
+2023-10-23 15:32:05: 17: 00007FF7D06EE349 
+2023-10-23 15:32:05: 18: 00007FF7D030957C 
+2023-10-23 15:32:05: 18: 00007FF7D06F1285 
+2023-10-23 15:32:05: 19: 00007FF7D02DAB49 
+2023-10-23 15:32:05: 19: 00007FF7D06EB11A 
+2023-10-23 15:32:05: 20: 00007FF7D02E11BE 
+2023-10-23 15:32:05: 20: 00007FF7D06F44A5 
+2023-10-23 15:32:05: 21: 00007FF7D06EB6F3 
+2023-10-23 15:32:05: 22: 00007FF7D06EB5D4 
+2023-10-23 15:32:05: 23: 00007FF7D06F1255 
+2023-10-23 15:32:05: 21: 00007FF7D0AE8EC5 
+2023-10-23 15:32:05: 24: 00007FF7D06EB11A 
+2023-10-23 15:32:05: 25: 00007FF7D06F1322 
+2023-10-23 15:32:05: 26: 00007FF7D06EB11A 
+2023-10-23 15:32:05: 27: 00007FF7D06F44A5 
+2023-10-23 15:32:05: 28: 00007FF7D06E9B48 
+2023-10-23 15:32:05: 29: 00007FF7D06E9481 
+2023-10-23 15:32:05: 22: 00007FF7CFDA924D 
+2023-10-23 15:32:05: 30: 00007FF7D06D74E0 
+2023-10-23 15:32:05: 23: 00007FF7CFEE3CFD 
+2023-10-23 15:32:05: 31: 00007FF7D08ABC09 
+2023-10-23 15:32:05: 24: 00007FF7D0FE19C0 
+2023-10-23 15:32:05: 32: 00007FF7D08AF127 
+2023-10-23 15:32:05: 25: 00007FFF59EA257D 
+2023-10-23 15:32:05: 33: 00007FF7D08AE9D4 
+2023-10-23 15:32:05: 26: 00007FFF5AA6AA78 
+2023-10-23 15:32:05: 34: 00007FF7D0488F1E 
+2023-10-23 15:32:05: 35: 00007FF7D09FFA61 
+2023-10-23 15:32:05: 36: 00007FF7D0978C43 
+2023-10-23 15:32:05: 37: 00007FF7D0977380 
+2023-10-23 15:32:05: 38: 00007FF7D0974CE3 
+2023-10-23 15:32:05: 39: 00007FF7D0AADAAA 
+2023-10-24 00:30:23: (node:22104) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-24 00:30:23: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-24 13:21:49: (node:24260) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-24 13:21:49: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-24 22:08:46: (node:23120) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-24 22:08:46: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-25 12:15:30: (node:24580) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-25 12:15:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-25 14:14:32: (node:10260) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-25 14:14:32: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-25 21:32:30: (node:21648) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-25 21:32:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-25 22:20:42: (node:7068) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-25 22:20:42: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-26 11:33:38: (node:21020) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-26 11:33:38: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-27 11:50:22: (node:6244) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-27 11:50:22: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-28 00:35:38: (node:27884) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-28 00:35:38: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-28 00:37:48: (node:28516) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-28 00:37:48: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-28 01:11:16: (node:23028) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-28 01:11:16: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-28 15:37:01: (node:7236) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-28 15:37:01: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-29 11:54:56: (node:8396) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-29 11:54:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-30 12:29:57: (node:21288) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-30 12:29:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-31 11:05:15: (node:22652) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-31 11:05:15: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-31 23:07:08: (node:21244) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-31 23:07:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-10-31 23:21:44: (node:1560) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-10-31 23:21:44: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-01 00:21:11: (node:2884) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-01 00:21:11: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-01 00:51:35: (node:3384) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-01 00:51:35: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-01 00:52:32: (node:19252) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-01 00:52:32: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-01 00:56:00: (node:4744) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-01 00:56:00: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-01 09:24:57: (node:24384) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-01 09:24:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-01 22:58:24: Error in /trade: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-11-01 22:58:37: Error in /trade: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-11-01 22:58:56: Error in /trade: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-11-01 23:00:39: Error in /trade: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-11-01 23:10:45: (node:9304) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-01 23:10:45: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-01 23:16:48: Error in /trade: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-11-01 23:27:10: Error in /forge view: ReferenceError: targetItem is not defined
+2023-11-01 23:28:26: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-11-01 23:32:28: Error in /forge view: TypeError: Cannot read properties of null (reading 'name')
+2023-11-01 23:54:51: Error in /forge view: ValidationError: materials.0.itemId: Path `itemId` is required.
+2023-11-01 23:58:53: (node:8076) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-01 23:58:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-01 23:59:58: Error in /forge view: ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 65232ea74bbd6660b0a3456c
+2023-11-02 00:05:22: Error in /trade: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-11-02 00:05:56: Error in /forge view: TypeError: Cannot read properties of null (reading '_id')
+2023-11-02 00:11:58: Error in /trade: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+2023-11-02 00:17:08: Error in /trade: DiscordAPIError[10062]: Unknown interaction
+2023-11-02 00:28:43: (node:4248) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-02 00:28:43: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-02 10:27:17: (node:8212) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-02 10:27:17: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-02 19:34:05: (node:16032) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-02 19:34:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-03 19:09:21: (node:24328) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-03 19:09:21: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-04 12:25:17: (node:4840) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-04 12:25:17: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-04 21:10:19: (node:19936) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-04 21:10:19: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-04 21:17:59: (node:14972) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-04 21:17:59: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-04 21:23:12: (node:14768) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-04 21:23:12: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-04 21:28:13: (node:3076) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-04 21:28:13: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-04 22:50:34: (node:11696) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-04 22:50:34: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-05 16:22:00: (node:14748) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-05 16:22:00: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-08 21:25:19: (node:12284) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-08 21:25:19: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-09 11:55:56: (node:872) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-09 11:55:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-10 23:56:29: (node:20264) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-10 23:56:29: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-11 00:09:14: Error in /forge view: ReferenceError: requiredTitanite is not defined
+2023-11-11 00:16:55: (node:10956) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-11 00:16:55: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-11 00:47:11: (node:19004) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-11 00:47:11: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-11 02:12:22: Error in /forge view: ReferenceError: requiredTitanite is not defined
+2023-11-11 02:32:35: Error in /forge view: ReferenceError: requiredTitanite is not defined
+2023-11-11 02:33:20: Error in /forge view: ReferenceError: existingEquipment is not defined
+2023-11-11 02:59:05: (node:12628) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-11 02:59:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-11 13:27:36: (node:5784) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-11 13:27:36: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-12 13:14:06: (node:3384) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-12 13:14:06: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-12 15:35:27: (node:7076) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-12 15:35:27: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-13 01:07:34: (node:10848) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-13 01:07:34: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-13 01:11:44: (node:18212) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-13 01:11:44: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-13 13:18:37: (node:19800) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-13 13:18:37: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-14 00:07:53: (node:19660) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-14 00:07:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-14 00:46:28: (node:15144) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-14 00:46:28: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-14 12:24:47: (node:19420) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-14 12:24:47: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-15 15:17:21: (node:22180) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-15 15:17:21: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-16 13:53:08: (node:2780) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-16 13:53:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-17 18:24:33: (node:11196) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-17 18:24:33: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-18 13:07:04: (node:18948) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-18 13:07:04: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-18 14:57:42: (node:21832) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-18 14:57:42: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-18 15:43:51: (node:480) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-18 15:43:51: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-20 12:00:21: (node:16264) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-20 12:00:21: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-20 19:18:51: (node:9576) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-20 19:18:51: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-21 12:55:51: (node:20756) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-21 12:55:51: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-22 23:40:08: (node:7492) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-22 23:40:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-24 18:17:54: (node:16552) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-24 18:17:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-25 18:53:06: (node:3968) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-25 18:53:06: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-25 21:21:15: (node:10184) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-25 21:21:15: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-26 01:06:22: (node:13724) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-26 01:06:22: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-26 01:15:27: (node:9004) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-26 01:15:27: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-26 01:35:13: (node:11112) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-26 01:35:13: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-26 02:02:21: (node:24552) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-26 02:02:21: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-26 02:10:16: (node:448) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-26 02:10:16: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-26 14:16:59: (node:12448) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-26 14:16:59: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-27 13:49:27: (node:11728) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-27 13:49:27: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-28 13:16:53: (node:21328) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-28 13:16:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-29 12:13:49: (node:10192) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-29 12:13:49: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-30 19:08:25: (node:16576) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-30 19:08:25: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-11-30 20:56:12: AxiosError: connect ETIMEDOUT 2606:4700:20::ac43:4442:443
+2023-11-30 20:56:12:     at AxiosError.from (C:\Users\crims\Documents\Development\Dauntless\node_modules\axios\dist\node\axios.cjs:837:14)
+2023-11-30 20:56:12:     at RedirectableRequest.handleRequestError (C:\Users\crims\Documents\Development\Dauntless\node_modules\axios\dist\node\axios.cjs:3016:25)
+2023-11-30 20:56:12:     at RedirectableRequest.emit (node:events:512:28)
+2023-11-30 20:56:12:     at eventHandlers.<computed> (C:\Users\crims\Documents\Development\Dauntless\node_modules\follow-redirects\index.js:14:24)
+2023-11-30 20:56:12:     at ClientRequest.emit (node:events:512:28)
+2023-11-30 20:56:12:     at TLSSocket.socketErrorListener (node:_http_client:495:9)
+2023-11-30 20:56:12:     at TLSSocket.emit (node:events:512:28)
+2023-11-30 20:56:12:     at emitErrorNT (node:internal/streams/destroy:151:8)
+2023-11-30 20:56:12:     at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+2023-11-30 20:56:12:     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+2023-11-30 20:56:12:   port: 443,
+2023-11-30 20:56:12:   address: '2606:4700:20::ac43:4442',
+2023-11-30 20:56:12:   syscall: 'connect',
+2023-11-30 20:56:12:   code: 'ETIMEDOUT',
+2023-11-30 20:56:12:   errno: -4039,
+2023-11-30 20:56:12:   config: {
+2023-11-30 20:56:12:     transitional: {
+2023-11-30 20:56:12:       silentJSONParsing: true,
+2023-11-30 20:56:12:       forcedJSONParsing: true,
+2023-11-30 20:56:12:       clarifyTimeoutError: false
+2023-11-30 20:56:12:     },
+2023-11-30 20:56:12:     adapter: 'http',
+2023-11-30 20:56:12:     transformRequest: [ [Function: transformRequest] ],
+2023-11-30 20:56:12:     transformResponse: [ [Function: transformResponse] ],
+2023-11-30 20:56:12:     timeout: 0,
+2023-11-30 20:56:12:     xsrfCookieName: 'XSRF-TOKEN',
+2023-11-30 20:56:12:     xsrfHeaderName: 'X-XSRF-TOKEN',
+2023-11-30 20:56:12:     maxContentLength: -1,
+2023-11-30 20:56:12:     maxBodyLength: -1,
+2023-11-30 20:56:12:     env: { FormData: [Function], Blob: [class Blob] },
+2023-11-30 20:56:12:     validateStatus: [Function: validateStatus],
+2023-11-30 20:56:12:     headers: Object [AxiosHeaders] {
+2023-11-30 20:56:12:       Accept: 'application/json, text/plain, */*',
+2023-11-30 20:56:12:       'Content-Type': undefined,
+2023-11-30 20:56:12:       'User-Agent': 'axios/1.5.0',
+2023-11-30 20:56:12:       'Accept-Encoding': 'gzip, compress, deflate, br'
+2023-11-30 20:56:12:     },
+2023-11-30 20:56:12:     params: {
+2023-11-30 20:56:12:       c: '{"type":"line","data":{"labels":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],"datasets":[{"data":[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],"borderColor":"lightblue","borderWidth":3,"fill":false}]},"options":{"scales":{"y":{"beginAtZero":true,"ticks":{"color":"white","font":{"weight":"bold","size":16}}},"x":{"ticks":{"color":"white","font":{"size":16}}}},"plugins":{"legend":{"labels":{"color":"white","font":{"weight":"bold","size":16}}}}}}'
+2023-11-30 20:56:12:     },
+2023-11-30 20:56:12:     method: 'get',
+2023-11-30 20:56:12:     url: 'https://quickchart.io/chart',
+2023-11-30 20:56:12:     data: undefined
+2023-11-30 20:56:12:   },
+2023-11-30 20:56:12:   request: <ref *1> Writable {
+2023-11-30 20:56:12:     _writableState: WritableState {
+2023-11-30 20:56:12:       objectMode: false,
+2023-11-30 20:56:12:       highWaterMark: 16384,
+2023-11-30 20:56:12:       finalCalled: false,
+2023-11-30 20:56:12:       needDrain: false,
+2023-11-30 20:56:12:       ending: false,
+2023-11-30 20:56:12:       ended: false,
+2023-11-30 20:56:12:       finished: false,
+2023-11-30 20:56:12:       destroyed: false,
+2023-11-30 20:56:12:       decodeStrings: true,
+2023-11-30 20:56:12:       defaultEncoding: 'utf8',
+2023-11-30 20:56:12:       length: 0,
+2023-11-30 20:56:12:       writing: false,
+2023-11-30 20:56:12:       corked: 0,
+2023-11-30 20:56:12:       sync: true,
+2023-11-30 20:56:12:       bufferProcessing: false,
+2023-11-30 20:56:12:       onwrite: [Function: bound onwrite],
+2023-11-30 20:56:12:       writecb: null,
+2023-11-30 20:56:12:       writelen: 0,
+2023-11-30 20:56:12:       afterWriteTickInfo: null,
+2023-11-30 20:56:12:       buffered: [],
+2023-11-30 20:56:12:       bufferedIndex: 0,
+2023-11-30 20:56:12:       allBuffers: true,
+2023-11-30 20:56:12:       allNoop: true,
+2023-11-30 20:56:12:       pendingcb: 0,
+2023-11-30 20:56:12:       constructed: true,
+2023-11-30 20:56:12:       prefinished: false,
+2023-11-30 20:56:12:       errorEmitted: false,
+2023-11-30 20:56:12:       emitClose: true,
+2023-11-30 20:56:12:       autoDestroy: true,
+2023-11-30 20:56:12:       errored: null,
+2023-11-30 20:56:12:       closed: false,
+2023-11-30 20:56:12:       closeEmitted: false,
+2023-11-30 20:56:12:       [Symbol(kOnFinished)]: []
+2023-11-30 20:56:12:     },
+2023-11-30 20:56:12:     _events: [Object: null prototype] {
+2023-11-30 20:56:12:       response: [Function: handleResponse],
+2023-11-30 20:56:12:       error: [Function: handleRequestError],
+2023-11-30 20:56:12:       socket: [Function: handleRequestSocket]
+2023-11-30 20:56:12:     },
+2023-11-30 20:56:12:     _eventsCount: 3,
+2023-11-30 20:56:12:     _maxListeners: undefined,
+2023-11-30 20:56:12:     _options: {
+2023-11-30 20:56:12:       maxRedirects: 21,
+2023-11-30 20:56:12:       maxBodyLength: Infinity,
+2023-11-30 20:56:12:       protocol: 'https:',
+2023-11-30 20:56:12:       path: '/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-11-30 20:56:12:       method: 'GET',
+2023-11-30 20:56:12:       headers: [Object: null prototype],
+2023-11-30 20:56:12:       agents: [Object],
+2023-11-30 20:56:12:       auth: undefined,
+2023-11-30 20:56:12:       family: undefined,
+2023-11-30 20:56:12:       beforeRedirect: [Function: dispatchBeforeRedirect],
+2023-11-30 20:56:12:       beforeRedirects: [Object],
+2023-11-30 20:56:12:       hostname: 'quickchart.io',
+2023-11-30 20:56:12:       port: '',
+2023-11-30 20:56:12:       agent: undefined,
+2023-11-30 20:56:12:       nativeProtocols: [Object],
+2023-11-30 20:56:12:       pathname: '/chart',
+2023-11-30 20:56:12:       search: '?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D'
+2023-11-30 20:56:12:     },
+2023-11-30 20:56:12:     _ended: true,
+2023-11-30 20:56:12:     _ending: true,
+2023-11-30 20:56:12:     _redirectCount: 0,
+2023-11-30 20:56:12:     _redirects: [],
+2023-11-30 20:56:12:     _requestBodyLength: 0,
+2023-11-30 20:56:12:     _requestBodyBuffers: [],
+2023-11-30 20:56:12:     _onNativeResponse: [Function (anonymous)],
+2023-11-30 20:56:12:     _currentRequest: ClientRequest {
+2023-11-30 20:56:12:       _events: [Object: null prototype],
+2023-11-30 20:56:12:       _eventsCount: 7,
+2023-11-30 20:56:12:       _maxListeners: undefined,
+2023-11-30 20:56:12:       outputData: [],
+2023-11-30 20:56:12:       outputSize: 0,
+2023-11-30 20:56:12:       writable: true,
+2023-11-30 20:56:12:       destroyed: false,
+2023-11-30 20:56:12:       _last: true,
+2023-11-30 20:56:12:       chunkedEncoding: false,
+2023-11-30 20:56:12:       shouldKeepAlive: true,
+2023-11-30 20:56:12:       maxRequestsOnConnectionReached: false,
+2023-11-30 20:56:12:       _defaultKeepAlive: true,
+2023-11-30 20:56:12:       useChunkedEncodingByDefault: false,
+2023-11-30 20:56:12:       sendDate: false,
+2023-11-30 20:56:12:       _removedConnection: false,
+2023-11-30 20:56:12:       _removedContLen: false,
+2023-11-30 20:56:12:       _removedTE: false,
+2023-11-30 20:56:12:       strictContentLength: false,
+2023-11-30 20:56:12:       _contentLength: 0,
+2023-11-30 20:56:12:       _hasBody: true,
+2023-11-30 20:56:12:       _trailer: '',
+2023-11-30 20:56:12:       finished: true,
+2023-11-30 20:56:12:       _headerSent: true,
+2023-11-30 20:56:12:       _closed: false,
+2023-11-30 20:56:12:       socket: [TLSSocket],
+2023-11-30 20:56:12:       _header: 'GET /chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D HTTP/1.1\r\n' +
+2023-11-30 20:56:12:         'Accept: application/json, text/plain, */*\r\n' +
+2023-11-30 20:56:12:         'User-Agent: axios/1.5.0\r\n' +
+2023-11-30 20:56:12:         'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+2023-11-30 20:56:12:         'Host: quickchart.io\r\n' +
+2023-11-30 20:56:12:         'Connection: keep-alive\r\n' +
+2023-11-30 20:56:12:         '\r\n',
+2023-11-30 20:56:12:       _keepAliveTimeout: 0,
+2023-11-30 20:56:12:       _onPendingData: [Function: nop],
+2023-11-30 20:56:12:       agent: [Agent],
+2023-11-30 20:56:12:       socketPath: undefined,
+2023-11-30 20:56:12:       method: 'GET',
+2023-11-30 20:56:12:       maxHeaderSize: undefined,
+2023-11-30 20:56:12:       insecureHTTPParser: undefined,
+2023-11-30 20:56:12:       joinDuplicateHeaders: undefined,
+2023-11-30 20:56:12:       path: '/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-11-30 20:56:12:       _ended: false,
+2023-11-30 20:56:12:       res: null,
+2023-11-30 20:56:12:       aborted: false,
+2023-11-30 20:56:12:       timeoutCb: [Function: emitRequestTimeout],
+2023-11-30 20:56:12:       upgradeOrConnect: false,
+2023-11-30 20:56:12:       parser: null,
+2023-11-30 20:56:12:       maxHeadersCount: null,
+2023-11-30 20:56:12:       reusedSocket: false,
+2023-11-30 20:56:12:       host: 'quickchart.io',
+2023-11-30 20:56:12:       protocol: 'https:',
+2023-11-30 20:56:12:       _redirectable: [Circular *1],
+2023-11-30 20:56:12:       [Symbol(kCapture)]: false,
+2023-11-30 20:56:12:       [Symbol(kBytesWritten)]: 0,
+2023-11-30 20:56:12:       [Symbol(kNeedDrain)]: false,
+2023-11-30 20:56:12:       [Symbol(corked)]: 0,
+2023-11-30 20:56:12:       [Symbol(kOutHeaders)]: [Object: null prototype],
+2023-11-30 20:56:12:       [Symbol(errored)]: null,
+2023-11-30 20:56:12:       [Symbol(kUniqueHeaders)]: null
+2023-11-30 20:56:12:     },
+2023-11-30 20:56:12:     _currentUrl: 'https://quickchart.io/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-11-30 20:56:12:     [Symbol(kCapture)]: false
+2023-11-30 20:56:12:   },
+2023-11-30 20:56:12:   cause: Error: connect ETIMEDOUT 2606:4700:20::ac43:4442:443
+2023-11-30 20:56:12:       at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16) {
+2023-11-30 20:56:12:     errno: -4039,
+2023-11-30 20:56:12:     code: 'ETIMEDOUT',
+2023-11-30 20:56:12:     syscall: 'connect',
+2023-11-30 20:56:12:     address: '2606:4700:20::ac43:4442',
+2023-11-30 20:56:12:     port: 443
+2023-11-30 20:56:12:   }
+2023-11-30 20:56:12: }
+2023-11-30 20:56:29: AxiosError: connect ETIMEDOUT 2606:4700:20::ac43:4442:443
+2023-11-30 20:56:29:     at AxiosError.from (C:\Users\crims\Documents\Development\Dauntless\node_modules\axios\dist\node\axios.cjs:837:14)
+2023-11-30 20:56:29:     at RedirectableRequest.handleRequestError (C:\Users\crims\Documents\Development\Dauntless\node_modules\axios\dist\node\axios.cjs:3016:25)
+2023-11-30 20:56:29:     at RedirectableRequest.emit (node:events:512:28)
+2023-11-30 20:56:29:     at eventHandlers.<computed> (C:\Users\crims\Documents\Development\Dauntless\node_modules\follow-redirects\index.js:14:24)
+2023-11-30 20:56:29:     at ClientRequest.emit (node:events:512:28)
+2023-11-30 20:56:29:     at TLSSocket.socketErrorListener (node:_http_client:495:9)
+2023-11-30 20:56:29:     at TLSSocket.emit (node:events:512:28)
+2023-11-30 20:56:29:     at emitErrorNT (node:internal/streams/destroy:151:8)
+2023-11-30 20:56:29:     at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+2023-11-30 20:56:29:     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+2023-11-30 20:56:29:   port: 443,
+2023-11-30 20:56:29:   address: '2606:4700:20::ac43:4442',
+2023-11-30 20:56:29:   syscall: 'connect',
+2023-11-30 20:56:29:   code: 'ETIMEDOUT',
+2023-11-30 20:56:29:   errno: -4039,
+2023-11-30 20:56:29:   config: {
+2023-11-30 20:56:29:     transitional: {
+2023-11-30 20:56:29:       silentJSONParsing: true,
+2023-11-30 20:56:29:       forcedJSONParsing: true,
+2023-11-30 20:56:29:       clarifyTimeoutError: false
+2023-11-30 20:56:29:     },
+2023-11-30 20:56:29:     adapter: 'http',
+2023-11-30 20:56:29:     transformRequest: [ [Function: transformRequest] ],
+2023-11-30 20:56:29:     transformResponse: [ [Function: transformResponse] ],
+2023-11-30 20:56:29:     timeout: 0,
+2023-11-30 20:56:29:     xsrfCookieName: 'XSRF-TOKEN',
+2023-11-30 20:56:29:     xsrfHeaderName: 'X-XSRF-TOKEN',
+2023-11-30 20:56:29:     maxContentLength: -1,
+2023-11-30 20:56:29:     maxBodyLength: -1,
+2023-11-30 20:56:29:     env: { FormData: [Function], Blob: [class Blob] },
+2023-11-30 20:56:29:     validateStatus: [Function: validateStatus],
+2023-11-30 20:56:29:     headers: Object [AxiosHeaders] {
+2023-11-30 20:56:29:       Accept: 'application/json, text/plain, */*',
+2023-11-30 20:56:29:       'Content-Type': undefined,
+2023-11-30 20:56:29:       'User-Agent': 'axios/1.5.0',
+2023-11-30 20:56:29:       'Accept-Encoding': 'gzip, compress, deflate, br'
+2023-11-30 20:56:29:     },
+2023-11-30 20:56:29:     params: {
+2023-11-30 20:56:29:       c: '{"type":"line","data":{"labels":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],"datasets":[{"data":[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],"borderColor":"lightblue","borderWidth":3,"fill":false}]},"options":{"scales":{"y":{"beginAtZero":true,"ticks":{"color":"white","font":{"weight":"bold","size":16}}},"x":{"ticks":{"color":"white","font":{"size":16}}}},"plugins":{"legend":{"labels":{"color":"white","font":{"weight":"bold","size":16}}}}}}'
+2023-11-30 20:56:29:     },
+2023-11-30 20:56:29:     method: 'get',
+2023-11-30 20:56:29:     url: 'https://quickchart.io/chart',
+2023-11-30 20:56:29:     data: undefined
+2023-11-30 20:56:29:   },
+2023-11-30 20:56:29:   request: <ref *1> Writable {
+2023-11-30 20:56:29:     _writableState: WritableState {
+2023-11-30 20:56:29:       objectMode: false,
+2023-11-30 20:56:29:       highWaterMark: 16384,
+2023-11-30 20:56:29:       finalCalled: false,
+2023-11-30 20:56:29:       needDrain: false,
+2023-11-30 20:56:29:       ending: false,
+2023-11-30 20:56:29:       ended: false,
+2023-11-30 20:56:29:       finished: false,
+2023-11-30 20:56:29:       destroyed: false,
+2023-11-30 20:56:29:       decodeStrings: true,
+2023-11-30 20:56:29:       defaultEncoding: 'utf8',
+2023-11-30 20:56:29:       length: 0,
+2023-11-30 20:56:29:       writing: false,
+2023-11-30 20:56:29:       corked: 0,
+2023-11-30 20:56:29:       sync: true,
+2023-11-30 20:56:29:       bufferProcessing: false,
+2023-11-30 20:56:29:       onwrite: [Function: bound onwrite],
+2023-11-30 20:56:29:       writecb: null,
+2023-11-30 20:56:29:       writelen: 0,
+2023-11-30 20:56:29:       afterWriteTickInfo: null,
+2023-11-30 20:56:29:       buffered: [],
+2023-11-30 20:56:29:       bufferedIndex: 0,
+2023-11-30 20:56:29:       allBuffers: true,
+2023-11-30 20:56:29:       allNoop: true,
+2023-11-30 20:56:29:       pendingcb: 0,
+2023-11-30 20:56:29:       constructed: true,
+2023-11-30 20:56:29:       prefinished: false,
+2023-11-30 20:56:29:       errorEmitted: false,
+2023-11-30 20:56:29:       emitClose: true,
+2023-11-30 20:56:29:       autoDestroy: true,
+2023-11-30 20:56:29:       errored: null,
+2023-11-30 20:56:29:       closed: false,
+2023-11-30 20:56:29:       closeEmitted: false,
+2023-11-30 20:56:29:       [Symbol(kOnFinished)]: []
+2023-11-30 20:56:29:     },
+2023-11-30 20:56:29:     _events: [Object: null prototype] {
+2023-11-30 20:56:29:       response: [Function: handleResponse],
+2023-11-30 20:56:29:       error: [Function: handleRequestError],
+2023-11-30 20:56:29:       socket: [Function: handleRequestSocket]
+2023-11-30 20:56:29:     },
+2023-11-30 20:56:29:     _eventsCount: 3,
+2023-11-30 20:56:29:     _maxListeners: undefined,
+2023-11-30 20:56:29:     _options: {
+2023-11-30 20:56:29:       maxRedirects: 21,
+2023-11-30 20:56:29:       maxBodyLength: Infinity,
+2023-11-30 20:56:29:       protocol: 'https:',
+2023-11-30 20:56:29:       path: '/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-11-30 20:56:29:       method: 'GET',
+2023-11-30 20:56:29:       headers: [Object: null prototype],
+2023-11-30 20:56:29:       agents: [Object],
+2023-11-30 20:56:29:       auth: undefined,
+2023-11-30 20:56:29:       family: undefined,
+2023-11-30 20:56:29:       beforeRedirect: [Function: dispatchBeforeRedirect],
+2023-11-30 20:56:29:       beforeRedirects: [Object],
+2023-11-30 20:56:29:       hostname: 'quickchart.io',
+2023-11-30 20:56:29:       port: '',
+2023-11-30 20:56:29:       agent: undefined,
+2023-11-30 20:56:29:       nativeProtocols: [Object],
+2023-11-30 20:56:29:       pathname: '/chart',
+2023-11-30 20:56:29:       search: '?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D'
+2023-11-30 20:56:29:     },
+2023-11-30 20:56:29:     _ended: true,
+2023-11-30 20:56:29:     _ending: true,
+2023-11-30 20:56:29:     _redirectCount: 0,
+2023-11-30 20:56:29:     _redirects: [],
+2023-11-30 20:56:29:     _requestBodyLength: 0,
+2023-11-30 20:56:29:     _requestBodyBuffers: [],
+2023-11-30 20:56:29:     _onNativeResponse: [Function (anonymous)],
+2023-11-30 20:56:29:     _currentRequest: ClientRequest {
+2023-11-30 20:56:29:       _events: [Object: null prototype],
+2023-11-30 20:56:29:       _eventsCount: 7,
+2023-11-30 20:56:29:       _maxListeners: undefined,
+2023-11-30 20:56:29:       outputData: [],
+2023-11-30 20:56:29:       outputSize: 0,
+2023-11-30 20:56:29:       writable: true,
+2023-11-30 20:56:29:       destroyed: false,
+2023-11-30 20:56:29:       _last: true,
+2023-11-30 20:56:29:       chunkedEncoding: false,
+2023-11-30 20:56:29:       shouldKeepAlive: true,
+2023-11-30 20:56:29:       maxRequestsOnConnectionReached: false,
+2023-11-30 20:56:29:       _defaultKeepAlive: true,
+2023-11-30 20:56:29:       useChunkedEncodingByDefault: false,
+2023-11-30 20:56:29:       sendDate: false,
+2023-11-30 20:56:29:       _removedConnection: false,
+2023-11-30 20:56:29:       _removedContLen: false,
+2023-11-30 20:56:29:       _removedTE: false,
+2023-11-30 20:56:29:       strictContentLength: false,
+2023-11-30 20:56:29:       _contentLength: 0,
+2023-11-30 20:56:29:       _hasBody: true,
+2023-11-30 20:56:29:       _trailer: '',
+2023-11-30 20:56:29:       finished: true,
+2023-11-30 20:56:29:       _headerSent: true,
+2023-11-30 20:56:29:       _closed: false,
+2023-11-30 20:56:29:       socket: [TLSSocket],
+2023-11-30 20:56:29:       _header: 'GET /chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D HTTP/1.1\r\n' +
+2023-11-30 20:56:29:         'Accept: application/json, text/plain, */*\r\n' +
+2023-11-30 20:56:29:         'User-Agent: axios/1.5.0\r\n' +
+2023-11-30 20:56:29:         'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+2023-11-30 20:56:29:         'Host: quickchart.io\r\n' +
+2023-11-30 20:56:29:         'Connection: keep-alive\r\n' +
+2023-11-30 20:56:29:         '\r\n',
+2023-11-30 20:56:29:       _keepAliveTimeout: 0,
+2023-11-30 20:56:29:       _onPendingData: [Function: nop],
+2023-11-30 20:56:29:       agent: [Agent],
+2023-11-30 20:56:29:       socketPath: undefined,
+2023-11-30 20:56:29:       method: 'GET',
+2023-11-30 20:56:29:       maxHeaderSize: undefined,
+2023-11-30 20:56:29:       insecureHTTPParser: undefined,
+2023-11-30 20:56:29:       joinDuplicateHeaders: undefined,
+2023-11-30 20:56:29:       path: '/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-11-30 20:56:29:       _ended: false,
+2023-11-30 20:56:29:       res: null,
+2023-11-30 20:56:29:       aborted: false,
+2023-11-30 20:56:29:       timeoutCb: [Function: emitRequestTimeout],
+2023-11-30 20:56:29:       upgradeOrConnect: false,
+2023-11-30 20:56:29:       parser: null,
+2023-11-30 20:56:29:       maxHeadersCount: null,
+2023-11-30 20:56:29:       reusedSocket: false,
+2023-11-30 20:56:29:       host: 'quickchart.io',
+2023-11-30 20:56:29:       protocol: 'https:',
+2023-11-30 20:56:29:       _redirectable: [Circular *1],
+2023-11-30 20:56:29:       [Symbol(kCapture)]: false,
+2023-11-30 20:56:29:       [Symbol(kBytesWritten)]: 0,
+2023-11-30 20:56:29:       [Symbol(kNeedDrain)]: false,
+2023-11-30 20:56:29:       [Symbol(corked)]: 0,
+2023-11-30 20:56:29:       [Symbol(kOutHeaders)]: [Object: null prototype],
+2023-11-30 20:56:29:       [Symbol(errored)]: null,
+2023-11-30 20:56:29:       [Symbol(kUniqueHeaders)]: null
+2023-11-30 20:56:29:     },
+2023-11-30 20:56:29:     _currentUrl: 'https://quickchart.io/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[19835,20205,20536,20697,21021,21431,21882,22223,22320,22695,22895,23251,24190,25187,26565,28339,29991,30461,84461,86189],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-11-30 20:56:29:     [Symbol(kCapture)]: false
+2023-11-30 20:56:29:   },
+2023-11-30 20:56:29:   cause: Error: connect ETIMEDOUT 2606:4700:20::ac43:4442:443
+2023-11-30 20:56:29:       at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16) {
+2023-11-30 20:56:29:     errno: -4039,
+2023-11-30 20:56:29:     code: 'ETIMEDOUT',
+2023-11-30 20:56:29:     syscall: 'connect',
+2023-11-30 20:56:29:     address: '2606:4700:20::ac43:4442',
+2023-11-30 20:56:29:     port: 443
+2023-11-30 20:56:29:   }
+2023-11-30 20:56:29: }
+2023-11-30 21:05:23: AxiosError: connect ETIMEDOUT 2606:4700:20::ac43:4442:443
+2023-11-30 21:05:23:     at AxiosError.from (C:\Users\crims\Documents\Development\Dauntless\node_modules\axios\dist\node\axios.cjs:837:14)
+2023-11-30 21:05:23:     at RedirectableRequest.handleRequestError (C:\Users\crims\Documents\Development\Dauntless\node_modules\axios\dist\node\axios.cjs:3016:25)
+2023-11-30 21:05:23:     at RedirectableRequest.emit (node:events:512:28)
+2023-11-30 21:05:23:     at eventHandlers.<computed> (C:\Users\crims\Documents\Development\Dauntless\node_modules\follow-redirects\index.js:14:24)
+2023-11-30 21:05:23:     at ClientRequest.emit (node:events:512:28)
+2023-11-30 21:05:23:     at TLSSocket.socketErrorListener (node:_http_client:495:9)
+2023-11-30 21:05:23:     at TLSSocket.emit (node:events:512:28)
+2023-11-30 21:05:23:     at emitErrorNT (node:internal/streams/destroy:151:8)
+2023-11-30 21:05:23:     at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+2023-11-30 21:05:23:     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+2023-11-30 21:05:23:   port: 443,
+2023-11-30 21:05:23:   address: '2606:4700:20::ac43:4442',
+2023-11-30 21:05:23:   syscall: 'connect',
+2023-11-30 21:05:23:   code: 'ETIMEDOUT',
+2023-11-30 21:05:23:   errno: -4039,
+2023-11-30 21:05:23:   config: {
+2023-11-30 21:05:23:     transitional: {
+2023-11-30 21:05:23:       silentJSONParsing: true,
+2023-11-30 21:05:23:       forcedJSONParsing: true,
+2023-11-30 21:05:23:       clarifyTimeoutError: false
+2023-11-30 21:05:23:     },
+2023-11-30 21:05:23:     adapter: 'http',
+2023-11-30 21:05:23:     transformRequest: [ [Function: transformRequest] ],
+2023-11-30 21:05:23:     transformResponse: [ [Function: transformResponse] ],
+2023-11-30 21:05:23:     timeout: 0,
+2023-11-30 21:05:23:     xsrfCookieName: 'XSRF-TOKEN',
+2023-11-30 21:05:23:     xsrfHeaderName: 'X-XSRF-TOKEN',
+2023-11-30 21:05:23:     maxContentLength: -1,
+2023-11-30 21:05:23:     maxBodyLength: -1,
+2023-11-30 21:05:23:     env: { FormData: [Function], Blob: [class Blob] },
+2023-11-30 21:05:23:     validateStatus: [Function: validateStatus],
+2023-11-30 21:05:23:     headers: Object [AxiosHeaders] {
+2023-11-30 21:05:23:       Accept: 'application/json, text/plain, */*',
+2023-11-30 21:05:23:       'Content-Type': undefined,
+2023-11-30 21:05:23:       'User-Agent': 'axios/1.5.0',
+2023-11-30 21:05:23:       'Accept-Encoding': 'gzip, compress, deflate, br'
+2023-11-30 21:05:23:     },
+2023-11-30 21:05:23:     params: {
+2023-11-30 21:05:23:       c: '{"type":"line","data":{"labels":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],"datasets":[{"data":[29991,30461,84461,86189,89189,89434,89508,89681,89814,89873,90099,90532,91001,91838,92594,92999,93204,93753,94369,97796],"borderColor":"lightblue","borderWidth":3,"fill":false}]},"options":{"scales":{"y":{"beginAtZero":true,"ticks":{"color":"white","font":{"weight":"bold","size":16}}},"x":{"ticks":{"color":"white","font":{"size":16}}}},"plugins":{"legend":{"labels":{"color":"white","font":{"weight":"bold","size":16}}}}}}'
+2023-11-30 21:05:23:     },
+2023-11-30 21:05:23:     method: 'get',
+2023-11-30 21:05:23:     url: 'https://quickchart.io/chart',
+2023-11-30 21:05:23:     data: undefined
+2023-11-30 21:05:23:   },
+2023-11-30 21:05:23:   request: <ref *1> Writable {
+2023-11-30 21:05:23:     _writableState: WritableState {
+2023-11-30 21:05:23:       objectMode: false,
+2023-11-30 21:05:23:       highWaterMark: 16384,
+2023-11-30 21:05:23:       finalCalled: false,
+2023-11-30 21:05:23:       needDrain: false,
+2023-11-30 21:05:23:       ending: false,
+2023-11-30 21:05:23:       ended: false,
+2023-11-30 21:05:23:       finished: false,
+2023-11-30 21:05:23:       destroyed: false,
+2023-11-30 21:05:23:       decodeStrings: true,
+2023-11-30 21:05:23:       defaultEncoding: 'utf8',
+2023-11-30 21:05:23:       length: 0,
+2023-11-30 21:05:23:       writing: false,
+2023-11-30 21:05:23:       corked: 0,
+2023-11-30 21:05:23:       sync: true,
+2023-11-30 21:05:23:       bufferProcessing: false,
+2023-11-30 21:05:23:       onwrite: [Function: bound onwrite],
+2023-11-30 21:05:23:       writecb: null,
+2023-11-30 21:05:23:       writelen: 0,
+2023-11-30 21:05:23:       afterWriteTickInfo: null,
+2023-11-30 21:05:23:       buffered: [],
+2023-11-30 21:05:23:       bufferedIndex: 0,
+2023-11-30 21:05:23:       allBuffers: true,
+2023-11-30 21:05:23:       allNoop: true,
+2023-11-30 21:05:23:       pendingcb: 0,
+2023-11-30 21:05:23:       constructed: true,
+2023-11-30 21:05:23:       prefinished: false,
+2023-11-30 21:05:23:       errorEmitted: false,
+2023-11-30 21:05:23:       emitClose: true,
+2023-11-30 21:05:23:       autoDestroy: true,
+2023-11-30 21:05:23:       errored: null,
+2023-11-30 21:05:23:       closed: false,
+2023-11-30 21:05:23:       closeEmitted: false,
+2023-11-30 21:05:23:       [Symbol(kOnFinished)]: []
+2023-11-30 21:05:23:     },
+2023-11-30 21:05:23:     _events: [Object: null prototype] {
+2023-11-30 21:05:23:       response: [Function: handleResponse],
+2023-11-30 21:05:23:       error: [Function: handleRequestError],
+2023-11-30 21:05:23:       socket: [Function: handleRequestSocket]
+2023-11-30 21:05:23:     },
+2023-11-30 21:05:23:     _eventsCount: 3,
+2023-11-30 21:05:23:     _maxListeners: undefined,
+2023-11-30 21:05:23:     _options: {
+2023-11-30 21:05:23:       maxRedirects: 21,
+2023-11-30 21:05:23:       maxBodyLength: Infinity,
+2023-11-30 21:05:23:       protocol: 'https:',
+2023-11-30 21:05:23:       path: '/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[29991,30461,84461,86189,89189,89434,89508,89681,89814,89873,90099,90532,91001,91838,92594,92999,93204,93753,94369,97796],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-11-30 21:05:23:       method: 'GET',
+2023-11-30 21:05:23:       headers: [Object: null prototype],
+2023-11-30 21:05:23:       agents: [Object],
+2023-11-30 21:05:23:       auth: undefined,
+2023-11-30 21:05:23:       family: undefined,
+2023-11-30 21:05:23:       beforeRedirect: [Function: dispatchBeforeRedirect],
+2023-11-30 21:05:23:       beforeRedirects: [Object],
+2023-11-30 21:05:23:       hostname: 'quickchart.io',
+2023-11-30 21:05:23:       port: '',
+2023-11-30 21:05:23:       agent: undefined,
+2023-11-30 21:05:23:       nativeProtocols: [Object],
+2023-11-30 21:05:23:       pathname: '/chart',
+2023-11-30 21:05:23:       search: '?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[29991,30461,84461,86189,89189,89434,89508,89681,89814,89873,90099,90532,91001,91838,92594,92999,93204,93753,94369,97796],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D'
+2023-11-30 21:05:23:     },
+2023-11-30 21:05:23:     _ended: true,
+2023-11-30 21:05:23:     _ending: true,
+2023-11-30 21:05:23:     _redirectCount: 0,
+2023-11-30 21:05:23:     _redirects: [],
+2023-11-30 21:05:23:     _requestBodyLength: 0,
+2023-11-30 21:05:23:     _requestBodyBuffers: [],
+2023-11-30 21:05:23:     _onNativeResponse: [Function (anonymous)],
+2023-11-30 21:05:23:     _currentRequest: ClientRequest {
+2023-11-30 21:05:23:       _events: [Object: null prototype],
+2023-11-30 21:05:23:       _eventsCount: 7,
+2023-11-30 21:05:23:       _maxListeners: undefined,
+2023-11-30 21:05:23:       outputData: [],
+2023-11-30 21:05:23:       outputSize: 0,
+2023-11-30 21:05:23:       writable: true,
+2023-11-30 21:05:23:       destroyed: false,
+2023-11-30 21:05:23:       _last: true,
+2023-11-30 21:05:23:       chunkedEncoding: false,
+2023-11-30 21:05:23:       shouldKeepAlive: true,
+2023-11-30 21:05:23:       maxRequestsOnConnectionReached: false,
+2023-11-30 21:05:23:       _defaultKeepAlive: true,
+2023-11-30 21:05:23:       useChunkedEncodingByDefault: false,
+2023-11-30 21:05:23:       sendDate: false,
+2023-11-30 21:05:23:       _removedConnection: false,
+2023-11-30 21:05:23:       _removedContLen: false,
+2023-11-30 21:05:23:       _removedTE: false,
+2023-11-30 21:05:23:       strictContentLength: false,
+2023-11-30 21:05:23:       _contentLength: 0,
+2023-11-30 21:05:23:       _hasBody: true,
+2023-11-30 21:05:23:       _trailer: '',
+2023-11-30 21:05:23:       finished: true,
+2023-11-30 21:05:23:       _headerSent: true,
+2023-11-30 21:05:23:       _closed: false,
+2023-11-30 21:05:23:       socket: [TLSSocket],
+2023-11-30 21:05:23:       _header: 'GET /chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[29991,30461,84461,86189,89189,89434,89508,89681,89814,89873,90099,90532,91001,91838,92594,92999,93204,93753,94369,97796],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D HTTP/1.1\r\n' +
+2023-11-30 21:05:23:         'Accept: application/json, text/plain, */*\r\n' +
+2023-11-30 21:05:23:         'User-Agent: axios/1.5.0\r\n' +
+2023-11-30 21:05:23:         'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+2023-11-30 21:05:23:         'Host: quickchart.io\r\n' +
+2023-11-30 21:05:23:         'Connection: keep-alive\r\n' +
+2023-11-30 21:05:23:         '\r\n',
+2023-11-30 21:05:23:       _keepAliveTimeout: 0,
+2023-11-30 21:05:23:       _onPendingData: [Function: nop],
+2023-11-30 21:05:23:       agent: [Agent],
+2023-11-30 21:05:23:       socketPath: undefined,
+2023-11-30 21:05:23:       method: 'GET',
+2023-11-30 21:05:23:       maxHeaderSize: undefined,
+2023-11-30 21:05:23:       insecureHTTPParser: undefined,
+2023-11-30 21:05:23:       joinDuplicateHeaders: undefined,
+2023-11-30 21:05:23:       path: '/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[29991,30461,84461,86189,89189,89434,89508,89681,89814,89873,90099,90532,91001,91838,92594,92999,93204,93753,94369,97796],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-11-30 21:05:23:       _ended: false,
+2023-11-30 21:05:23:       res: null,
+2023-11-30 21:05:23:       aborted: false,
+2023-11-30 21:05:23:       timeoutCb: [Function: emitRequestTimeout],
+2023-11-30 21:05:23:       upgradeOrConnect: false,
+2023-11-30 21:05:23:       parser: null,
+2023-11-30 21:05:23:       maxHeadersCount: null,
+2023-11-30 21:05:23:       reusedSocket: false,
+2023-11-30 21:05:23:       host: 'quickchart.io',
+2023-11-30 21:05:23:       protocol: 'https:',
+2023-11-30 21:05:23:       _redirectable: [Circular *1],
+2023-11-30 21:05:23:       [Symbol(kCapture)]: false,
+2023-11-30 21:05:23:       [Symbol(kBytesWritten)]: 0,
+2023-11-30 21:05:23:       [Symbol(kNeedDrain)]: false,
+2023-11-30 21:05:23:       [Symbol(corked)]: 0,
+2023-11-30 21:05:23:       [Symbol(kOutHeaders)]: [Object: null prototype],
+2023-11-30 21:05:23:       [Symbol(errored)]: null,
+2023-11-30 21:05:23:       [Symbol(kUniqueHeaders)]: null
+2023-11-30 21:05:23:     },
+2023-11-30 21:05:23:     _currentUrl: 'https://quickchart.io/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[29991,30461,84461,86189,89189,89434,89508,89681,89814,89873,90099,90532,91001,91838,92594,92999,93204,93753,94369,97796],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-11-30 21:05:23:     [Symbol(kCapture)]: false
+2023-11-30 21:05:23:   },
+2023-11-30 21:05:23:   cause: Error: connect ETIMEDOUT 2606:4700:20::ac43:4442:443
+2023-11-30 21:05:23:       at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16) {
+2023-11-30 21:05:23:     errno: -4039,
+2023-11-30 21:05:23:     code: 'ETIMEDOUT',
+2023-11-30 21:05:23:     syscall: 'connect',
+2023-11-30 21:05:23:     address: '2606:4700:20::ac43:4442',
+2023-11-30 21:05:23:     port: 443
+2023-11-30 21:05:23:   }
+2023-11-30 21:05:23: }
+2023-11-30 23:16:08: (node:10356) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-11-30 23:16:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-12-01 01:17:32: AxiosError: connect ETIMEDOUT 2606:4700:20::681a:4dd:443
+2023-12-01 01:17:32:     at AxiosError.from (C:\Users\crims\Documents\Development\Dauntless\node_modules\axios\dist\node\axios.cjs:837:14)
+2023-12-01 01:17:32:     at RedirectableRequest.handleRequestError (C:\Users\crims\Documents\Development\Dauntless\node_modules\axios\dist\node\axios.cjs:3016:25)
+2023-12-01 01:17:32:     at RedirectableRequest.emit (node:events:512:28)
+2023-12-01 01:17:32:     at eventHandlers.<computed> (C:\Users\crims\Documents\Development\Dauntless\node_modules\follow-redirects\index.js:14:24)
+2023-12-01 01:17:32:     at ClientRequest.emit (node:events:512:28)
+2023-12-01 01:17:32:     at TLSSocket.socketErrorListener (node:_http_client:495:9)
+2023-12-01 01:17:32:     at TLSSocket.emit (node:events:512:28)
+2023-12-01 01:17:32:     at emitErrorNT (node:internal/streams/destroy:151:8)
+2023-12-01 01:17:32:     at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+2023-12-01 01:17:32:     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+2023-12-01 01:17:32:   port: 443,
+2023-12-01 01:17:32:   address: '2606:4700:20::681a:4dd',
+2023-12-01 01:17:32:   syscall: 'connect',
+2023-12-01 01:17:32:   code: 'ETIMEDOUT',
+2023-12-01 01:17:32:   errno: -4039,
+2023-12-01 01:17:32:   config: {
+2023-12-01 01:17:32:     transitional: {
+2023-12-01 01:17:32:       silentJSONParsing: true,
+2023-12-01 01:17:32:       forcedJSONParsing: true,
+2023-12-01 01:17:32:       clarifyTimeoutError: false
+2023-12-01 01:17:32:     },
+2023-12-01 01:17:32:     adapter: 'http',
+2023-12-01 01:17:32:     transformRequest: [ [Function: transformRequest] ],
+2023-12-01 01:17:32:     transformResponse: [ [Function: transformResponse] ],
+2023-12-01 01:17:32:     timeout: 0,
+2023-12-01 01:17:32:     xsrfCookieName: 'XSRF-TOKEN',
+2023-12-01 01:17:32:     xsrfHeaderName: 'X-XSRF-TOKEN',
+2023-12-01 01:17:32:     maxContentLength: -1,
+2023-12-01 01:17:32:     maxBodyLength: -1,
+2023-12-01 01:17:32:     env: { FormData: [Function], Blob: [class Blob] },
+2023-12-01 01:17:32:     validateStatus: [Function: validateStatus],
+2023-12-01 01:17:32:     headers: Object [AxiosHeaders] {
+2023-12-01 01:17:32:       Accept: 'application/json, text/plain, */*',
+2023-12-01 01:17:32:       'Content-Type': undefined,
+2023-12-01 01:17:32:       'User-Agent': 'axios/1.5.0',
+2023-12-01 01:17:32:       'Accept-Encoding': 'gzip, compress, deflate, br'
+2023-12-01 01:17:32:     },
+2023-12-01 01:17:32:     params: {
+2023-12-01 01:17:32:       c: '{"type":"line","data":{"labels":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],"datasets":[{"data":[115258,115631,115632,116900,117735,119030,119877,121056,121742,122087,124057,125211,125888,126374,126438,126765,127178,127394,157037,172236],"borderColor":"lightblue","borderWidth":3,"fill":false}]},"options":{"scales":{"y":{"beginAtZero":true,"ticks":{"color":"white","font":{"weight":"bold","size":16}}},"x":{"ticks":{"color":"white","font":{"size":16}}}},"plugins":{"legend":{"labels":{"color":"white","font":{"weight":"bold","size":16}}}}}}'
+2023-12-01 01:17:32:     },
+2023-12-01 01:17:32:     method: 'get',
+2023-12-01 01:17:32:     url: 'https://quickchart.io/chart',
+2023-12-01 01:17:32:     data: undefined
+2023-12-01 01:17:32:   },
+2023-12-01 01:17:32:   request: <ref *1> Writable {
+2023-12-01 01:17:32:     _writableState: WritableState {
+2023-12-01 01:17:32:       objectMode: false,
+2023-12-01 01:17:32:       highWaterMark: 16384,
+2023-12-01 01:17:32:       finalCalled: false,
+2023-12-01 01:17:32:       needDrain: false,
+2023-12-01 01:17:32:       ending: false,
+2023-12-01 01:17:32:       ended: false,
+2023-12-01 01:17:32:       finished: false,
+2023-12-01 01:17:32:       destroyed: false,
+2023-12-01 01:17:32:       decodeStrings: true,
+2023-12-01 01:17:32:       defaultEncoding: 'utf8',
+2023-12-01 01:17:32:       length: 0,
+2023-12-01 01:17:32:       writing: false,
+2023-12-01 01:17:32:       corked: 0,
+2023-12-01 01:17:32:       sync: true,
+2023-12-01 01:17:32:       bufferProcessing: false,
+2023-12-01 01:17:32:       onwrite: [Function: bound onwrite],
+2023-12-01 01:17:32:       writecb: null,
+2023-12-01 01:17:32:       writelen: 0,
+2023-12-01 01:17:32:       afterWriteTickInfo: null,
+2023-12-01 01:17:32:       buffered: [],
+2023-12-01 01:17:32:       bufferedIndex: 0,
+2023-12-01 01:17:32:       allBuffers: true,
+2023-12-01 01:17:32:       allNoop: true,
+2023-12-01 01:17:32:       pendingcb: 0,
+2023-12-01 01:17:32:       constructed: true,
+2023-12-01 01:17:32:       prefinished: false,
+2023-12-01 01:17:32:       errorEmitted: false,
+2023-12-01 01:17:32:       emitClose: true,
+2023-12-01 01:17:32:       autoDestroy: true,
+2023-12-01 01:17:32:       errored: null,
+2023-12-01 01:17:32:       closed: false,
+2023-12-01 01:17:32:       closeEmitted: false,
+2023-12-01 01:17:32:       [Symbol(kOnFinished)]: []
+2023-12-01 01:17:32:     },
+2023-12-01 01:17:32:     _events: [Object: null prototype] {
+2023-12-01 01:17:32:       response: [Function: handleResponse],
+2023-12-01 01:17:32:       error: [Function: handleRequestError],
+2023-12-01 01:17:32:       socket: [Function: handleRequestSocket]
+2023-12-01 01:17:32:     },
+2023-12-01 01:17:32:     _eventsCount: 3,
+2023-12-01 01:17:32:     _maxListeners: undefined,
+2023-12-01 01:17:32:     _options: {
+2023-12-01 01:17:32:       maxRedirects: 21,
+2023-12-01 01:17:32:       maxBodyLength: Infinity,
+2023-12-01 01:17:32:       protocol: 'https:',
+2023-12-01 01:17:32:       path: '/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[115258,115631,115632,116900,117735,119030,119877,121056,121742,122087,124057,125211,125888,126374,126438,126765,127178,127394,157037,172236],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-12-01 01:17:32:       method: 'GET',
+2023-12-01 01:17:32:       headers: [Object: null prototype],
+2023-12-01 01:17:32:       agents: [Object],
+2023-12-01 01:17:32:       auth: undefined,
+2023-12-01 01:17:32:       family: undefined,
+2023-12-01 01:17:32:       beforeRedirect: [Function: dispatchBeforeRedirect],
+2023-12-01 01:17:32:       beforeRedirects: [Object],
+2023-12-01 01:17:32:       hostname: 'quickchart.io',
+2023-12-01 01:17:32:       port: '',
+2023-12-01 01:17:32:       agent: undefined,
+2023-12-01 01:17:32:       nativeProtocols: [Object],
+2023-12-01 01:17:32:       pathname: '/chart',
+2023-12-01 01:17:32:       search: '?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[115258,115631,115632,116900,117735,119030,119877,121056,121742,122087,124057,125211,125888,126374,126438,126765,127178,127394,157037,172236],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D'
+2023-12-01 01:17:32:     },
+2023-12-01 01:17:32:     _ended: true,
+2023-12-01 01:17:32:     _ending: true,
+2023-12-01 01:17:32:     _redirectCount: 0,
+2023-12-01 01:17:32:     _redirects: [],
+2023-12-01 01:17:32:     _requestBodyLength: 0,
+2023-12-01 01:17:32:     _requestBodyBuffers: [],
+2023-12-01 01:17:32:     _onNativeResponse: [Function (anonymous)],
+2023-12-01 01:17:32:     _currentRequest: ClientRequest {
+2023-12-01 01:17:32:       _events: [Object: null prototype],
+2023-12-01 01:17:32:       _eventsCount: 7,
+2023-12-01 01:17:32:       _maxListeners: undefined,
+2023-12-01 01:17:32:       outputData: [],
+2023-12-01 01:17:32:       outputSize: 0,
+2023-12-01 01:17:32:       writable: true,
+2023-12-01 01:17:32:       destroyed: false,
+2023-12-01 01:17:32:       _last: true,
+2023-12-01 01:17:32:       chunkedEncoding: false,
+2023-12-01 01:17:32:       shouldKeepAlive: true,
+2023-12-01 01:17:32:       maxRequestsOnConnectionReached: false,
+2023-12-01 01:17:32:       _defaultKeepAlive: true,
+2023-12-01 01:17:32:       useChunkedEncodingByDefault: false,
+2023-12-01 01:17:32:       sendDate: false,
+2023-12-01 01:17:32:       _removedConnection: false,
+2023-12-01 01:17:32:       _removedContLen: false,
+2023-12-01 01:17:32:       _removedTE: false,
+2023-12-01 01:17:32:       strictContentLength: false,
+2023-12-01 01:17:32:       _contentLength: 0,
+2023-12-01 01:17:32:       _hasBody: true,
+2023-12-01 01:17:32:       _trailer: '',
+2023-12-01 01:17:32:       finished: true,
+2023-12-01 01:17:32:       _headerSent: true,
+2023-12-01 01:17:32:       _closed: false,
+2023-12-01 01:17:32:       socket: [TLSSocket],
+2023-12-01 01:17:32:       _header: 'GET /chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[115258,115631,115632,116900,117735,119030,119877,121056,121742,122087,124057,125211,125888,126374,126438,126765,127178,127394,157037,172236],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D HTTP/1.1\r\n' +
+2023-12-01 01:17:32:         'Accept: application/json, text/plain, */*\r\n' +
+2023-12-01 01:17:32:         'User-Agent: axios/1.5.0\r\n' +
+2023-12-01 01:17:32:         'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+2023-12-01 01:17:32:         'Host: quickchart.io\r\n' +
+2023-12-01 01:17:32:         'Connection: keep-alive\r\n' +
+2023-12-01 01:17:32:         '\r\n',
+2023-12-01 01:17:32:       _keepAliveTimeout: 0,
+2023-12-01 01:17:32:       _onPendingData: [Function: nop],
+2023-12-01 01:17:32:       agent: [Agent],
+2023-12-01 01:17:32:       socketPath: undefined,
+2023-12-01 01:17:32:       method: 'GET',
+2023-12-01 01:17:32:       maxHeaderSize: undefined,
+2023-12-01 01:17:32:       insecureHTTPParser: undefined,
+2023-12-01 01:17:32:       joinDuplicateHeaders: undefined,
+2023-12-01 01:17:32:       path: '/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[115258,115631,115632,116900,117735,119030,119877,121056,121742,122087,124057,125211,125888,126374,126438,126765,127178,127394,157037,172236],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-12-01 01:17:32:       _ended: false,
+2023-12-01 01:17:32:       res: null,
+2023-12-01 01:17:32:       aborted: false,
+2023-12-01 01:17:32:       timeoutCb: [Function: emitRequestTimeout],
+2023-12-01 01:17:32:       upgradeOrConnect: false,
+2023-12-01 01:17:32:       parser: null,
+2023-12-01 01:17:32:       maxHeadersCount: null,
+2023-12-01 01:17:32:       reusedSocket: false,
+2023-12-01 01:17:32:       host: 'quickchart.io',
+2023-12-01 01:17:32:       protocol: 'https:',
+2023-12-01 01:17:32:       _redirectable: [Circular *1],
+2023-12-01 01:17:32:       [Symbol(kCapture)]: false,
+2023-12-01 01:17:32:       [Symbol(kBytesWritten)]: 0,
+2023-12-01 01:17:32:       [Symbol(kNeedDrain)]: false,
+2023-12-01 01:17:32:       [Symbol(corked)]: 0,
+2023-12-01 01:17:32:       [Symbol(kOutHeaders)]: [Object: null prototype],
+2023-12-01 01:17:32:       [Symbol(errored)]: null,
+2023-12-01 01:17:32:       [Symbol(kUniqueHeaders)]: null
+2023-12-01 01:17:32:     },
+2023-12-01 01:17:32:     _currentUrl: 'https://quickchart.io/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[115258,115631,115632,116900,117735,119030,119877,121056,121742,122087,124057,125211,125888,126374,126438,126765,127178,127394,157037,172236],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-12-01 01:17:32:     [Symbol(kCapture)]: false
+2023-12-01 01:17:32:   },
+2023-12-01 01:17:32:   cause: Error: connect ETIMEDOUT 2606:4700:20::681a:4dd:443
+2023-12-01 01:17:32:       at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16) {
+2023-12-01 01:17:32:     errno: -4039,
+2023-12-01 01:17:32:     code: 'ETIMEDOUT',
+2023-12-01 01:17:32:     syscall: 'connect',
+2023-12-01 01:17:32:     address: '2606:4700:20::681a:4dd',
+2023-12-01 01:17:32:     port: 443
+2023-12-01 01:17:32:   }
+2023-12-01 01:17:32: }
+2023-12-01 01:43:58: AxiosError: connect ETIMEDOUT 2606:4700:20::681a:5dd:443
+2023-12-01 01:43:58:     at AxiosError.from (C:\Users\crims\Documents\Development\Dauntless\node_modules\axios\dist\node\axios.cjs:837:14)
+2023-12-01 01:43:58:     at RedirectableRequest.handleRequestError (C:\Users\crims\Documents\Development\Dauntless\node_modules\axios\dist\node\axios.cjs:3016:25)
+2023-12-01 01:43:58:     at RedirectableRequest.emit (node:events:512:28)
+2023-12-01 01:43:58:     at eventHandlers.<computed> (C:\Users\crims\Documents\Development\Dauntless\node_modules\follow-redirects\index.js:14:24)
+2023-12-01 01:43:58:     at ClientRequest.emit (node:events:512:28)
+2023-12-01 01:43:58:     at TLSSocket.socketErrorListener (node:_http_client:495:9)
+2023-12-01 01:43:58:     at TLSSocket.emit (node:events:512:28)
+2023-12-01 01:43:58:     at emitErrorNT (node:internal/streams/destroy:151:8)
+2023-12-01 01:43:58:     at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+2023-12-01 01:43:58:     at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+2023-12-01 01:43:58:   port: 443,
+2023-12-01 01:43:58:   address: '2606:4700:20::681a:5dd',
+2023-12-01 01:43:58:   syscall: 'connect',
+2023-12-01 01:43:58:   code: 'ETIMEDOUT',
+2023-12-01 01:43:58:   errno: -4039,
+2023-12-01 01:43:58:   config: {
+2023-12-01 01:43:58:     transitional: {
+2023-12-01 01:43:58:       silentJSONParsing: true,
+2023-12-01 01:43:58:       forcedJSONParsing: true,
+2023-12-01 01:43:58:       clarifyTimeoutError: false
+2023-12-01 01:43:58:     },
+2023-12-01 01:43:58:     adapter: 'http',
+2023-12-01 01:43:58:     transformRequest: [ [Function: transformRequest] ],
+2023-12-01 01:43:58:     transformResponse: [ [Function: transformResponse] ],
+2023-12-01 01:43:58:     timeout: 0,
+2023-12-01 01:43:58:     xsrfCookieName: 'XSRF-TOKEN',
+2023-12-01 01:43:58:     xsrfHeaderName: 'X-XSRF-TOKEN',
+2023-12-01 01:43:58:     maxContentLength: -1,
+2023-12-01 01:43:58:     maxBodyLength: -1,
+2023-12-01 01:43:58:     env: { FormData: [Function], Blob: [class Blob] },
+2023-12-01 01:43:58:     validateStatus: [Function: validateStatus],
+2023-12-01 01:43:58:     headers: Object [AxiosHeaders] {
+2023-12-01 01:43:58:       Accept: 'application/json, text/plain, */*',
+2023-12-01 01:43:58:       'Content-Type': undefined,
+2023-12-01 01:43:58:       'User-Agent': 'axios/1.5.0',
+2023-12-01 01:43:58:       'Accept-Encoding': 'gzip, compress, deflate, br'
+2023-12-01 01:43:58:     },
+2023-12-01 01:43:58:     params: {
+2023-12-01 01:43:58:       c: '{"type":"line","data":{"labels":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],"datasets":[{"data":[126374,126438,126765,127178,127394,157037,172236,2236,2514,3864,5617,6193,7412,9082,43053,43784,45478,46255,48184,49872],"borderColor":"lightblue","borderWidth":3,"fill":false}]},"options":{"scales":{"y":{"beginAtZero":true,"ticks":{"color":"white","font":{"weight":"bold","size":16}}},"x":{"ticks":{"color":"white","font":{"size":16}}}},"plugins":{"legend":{"labels":{"color":"white","font":{"weight":"bold","size":16}}}}}}'
+2023-12-01 01:43:58:     },
+2023-12-01 01:43:58:     method: 'get',
+2023-12-01 01:43:58:     url: 'https://quickchart.io/chart',
+2023-12-01 01:43:58:     data: undefined
+2023-12-01 01:43:58:   },
+2023-12-01 01:43:58:   request: <ref *1> Writable {
+2023-12-01 01:43:58:     _writableState: WritableState {
+2023-12-01 01:43:58:       objectMode: false,
+2023-12-01 01:43:58:       highWaterMark: 16384,
+2023-12-01 01:43:58:       finalCalled: false,
+2023-12-01 01:43:58:       needDrain: false,
+2023-12-01 01:43:58:       ending: false,
+2023-12-01 01:43:58:       ended: false,
+2023-12-01 01:43:58:       finished: false,
+2023-12-01 01:43:58:       destroyed: false,
+2023-12-01 01:43:58:       decodeStrings: true,
+2023-12-01 01:43:58:       defaultEncoding: 'utf8',
+2023-12-01 01:43:58:       length: 0,
+2023-12-01 01:43:58:       writing: false,
+2023-12-01 01:43:58:       corked: 0,
+2023-12-01 01:43:58:       sync: true,
+2023-12-01 01:43:58:       bufferProcessing: false,
+2023-12-01 01:43:58:       onwrite: [Function: bound onwrite],
+2023-12-01 01:43:58:       writecb: null,
+2023-12-01 01:43:58:       writelen: 0,
+2023-12-01 01:43:58:       afterWriteTickInfo: null,
+2023-12-01 01:43:58:       buffered: [],
+2023-12-01 01:43:58:       bufferedIndex: 0,
+2023-12-01 01:43:58:       allBuffers: true,
+2023-12-01 01:43:58:       allNoop: true,
+2023-12-01 01:43:58:       pendingcb: 0,
+2023-12-01 01:43:58:       constructed: true,
+2023-12-01 01:43:58:       prefinished: false,
+2023-12-01 01:43:58:       errorEmitted: false,
+2023-12-01 01:43:58:       emitClose: true,
+2023-12-01 01:43:58:       autoDestroy: true,
+2023-12-01 01:43:58:       errored: null,
+2023-12-01 01:43:58:       closed: false,
+2023-12-01 01:43:58:       closeEmitted: false,
+2023-12-01 01:43:58:       [Symbol(kOnFinished)]: []
+2023-12-01 01:43:58:     },
+2023-12-01 01:43:58:     _events: [Object: null prototype] {
+2023-12-01 01:43:58:       response: [Function: handleResponse],
+2023-12-01 01:43:58:       error: [Function: handleRequestError],
+2023-12-01 01:43:58:       socket: [Function: handleRequestSocket]
+2023-12-01 01:43:58:     },
+2023-12-01 01:43:58:     _eventsCount: 3,
+2023-12-01 01:43:58:     _maxListeners: undefined,
+2023-12-01 01:43:58:     _options: {
+2023-12-01 01:43:58:       maxRedirects: 21,
+2023-12-01 01:43:58:       maxBodyLength: Infinity,
+2023-12-01 01:43:58:       protocol: 'https:',
+2023-12-01 01:43:58:       path: '/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[126374,126438,126765,127178,127394,157037,172236,2236,2514,3864,5617,6193,7412,9082,43053,43784,45478,46255,48184,49872],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-12-01 01:43:58:       method: 'GET',
+2023-12-01 01:43:58:       headers: [Object: null prototype],
+2023-12-01 01:43:58:       agents: [Object],
+2023-12-01 01:43:58:       auth: undefined,
+2023-12-01 01:43:58:       family: undefined,
+2023-12-01 01:43:58:       beforeRedirect: [Function: dispatchBeforeRedirect],
+2023-12-01 01:43:58:       beforeRedirects: [Object],
+2023-12-01 01:43:58:       hostname: 'quickchart.io',
+2023-12-01 01:43:58:       port: '',
+2023-12-01 01:43:58:       agent: undefined,
+2023-12-01 01:43:58:       nativeProtocols: [Object],
+2023-12-01 01:43:58:       pathname: '/chart',
+2023-12-01 01:43:58:       search: '?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[126374,126438,126765,127178,127394,157037,172236,2236,2514,3864,5617,6193,7412,9082,43053,43784,45478,46255,48184,49872],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D'
+2023-12-01 01:43:58:     },
+2023-12-01 01:43:58:     _ended: true,
+2023-12-01 01:43:58:     _ending: true,
+2023-12-01 01:43:58:     _redirectCount: 0,
+2023-12-01 01:43:58:     _redirects: [],
+2023-12-01 01:43:58:     _requestBodyLength: 0,
+2023-12-01 01:43:58:     _requestBodyBuffers: [],
+2023-12-01 01:43:58:     _onNativeResponse: [Function (anonymous)],
+2023-12-01 01:43:58:     _currentRequest: ClientRequest {
+2023-12-01 01:43:58:       _events: [Object: null prototype],
+2023-12-01 01:43:58:       _eventsCount: 7,
+2023-12-01 01:43:58:       _maxListeners: undefined,
+2023-12-01 01:43:58:       outputData: [],
+2023-12-01 01:43:58:       outputSize: 0,
+2023-12-01 01:43:58:       writable: true,
+2023-12-01 01:43:58:       destroyed: false,
+2023-12-01 01:43:58:       _last: true,
+2023-12-01 01:43:58:       chunkedEncoding: false,
+2023-12-01 01:43:58:       shouldKeepAlive: true,
+2023-12-01 01:43:58:       maxRequestsOnConnectionReached: false,
+2023-12-01 01:43:58:       _defaultKeepAlive: true,
+2023-12-01 01:43:58:       useChunkedEncodingByDefault: false,
+2023-12-01 01:43:58:       sendDate: false,
+2023-12-01 01:43:58:       _removedConnection: false,
+2023-12-01 01:43:58:       _removedContLen: false,
+2023-12-01 01:43:58:       _removedTE: false,
+2023-12-01 01:43:58:       strictContentLength: false,
+2023-12-01 01:43:58:       _contentLength: 0,
+2023-12-01 01:43:58:       _hasBody: true,
+2023-12-01 01:43:58:       _trailer: '',
+2023-12-01 01:43:58:       finished: true,
+2023-12-01 01:43:58:       _headerSent: true,
+2023-12-01 01:43:58:       _closed: false,
+2023-12-01 01:43:58:       socket: [TLSSocket],
+2023-12-01 01:43:58:       _header: 'GET /chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[126374,126438,126765,127178,127394,157037,172236,2236,2514,3864,5617,6193,7412,9082,43053,43784,45478,46255,48184,49872],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D HTTP/1.1\r\n' +
+2023-12-01 01:43:58:         'Accept: application/json, text/plain, */*\r\n' +
+2023-12-01 01:43:58:         'User-Agent: axios/1.5.0\r\n' +
+2023-12-01 01:43:58:         'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+2023-12-01 01:43:58:         'Host: quickchart.io\r\n' +
+2023-12-01 01:43:58:         'Connection: keep-alive\r\n' +
+2023-12-01 01:43:58:         '\r\n',
+2023-12-01 01:43:58:       _keepAliveTimeout: 0,
+2023-12-01 01:43:58:       _onPendingData: [Function: nop],
+2023-12-01 01:43:58:       agent: [Agent],
+2023-12-01 01:43:58:       socketPath: undefined,
+2023-12-01 01:43:58:       method: 'GET',
+2023-12-01 01:43:58:       maxHeaderSize: undefined,
+2023-12-01 01:43:58:       insecureHTTPParser: undefined,
+2023-12-01 01:43:58:       joinDuplicateHeaders: undefined,
+2023-12-01 01:43:58:       path: '/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[126374,126438,126765,127178,127394,157037,172236,2236,2514,3864,5617,6193,7412,9082,43053,43784,45478,46255,48184,49872],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-12-01 01:43:58:       _ended: false,
+2023-12-01 01:43:58:       res: null,
+2023-12-01 01:43:58:       aborted: false,
+2023-12-01 01:43:58:       timeoutCb: [Function: emitRequestTimeout],
+2023-12-01 01:43:58:       upgradeOrConnect: false,
+2023-12-01 01:43:58:       parser: null,
+2023-12-01 01:43:58:       maxHeadersCount: null,
+2023-12-01 01:43:58:       reusedSocket: false,
+2023-12-01 01:43:58:       host: 'quickchart.io',
+2023-12-01 01:43:58:       protocol: 'https:',
+2023-12-01 01:43:58:       _redirectable: [Circular *1],
+2023-12-01 01:43:58:       [Symbol(kCapture)]: false,
+2023-12-01 01:43:58:       [Symbol(kBytesWritten)]: 0,
+2023-12-01 01:43:58:       [Symbol(kNeedDrain)]: false,
+2023-12-01 01:43:58:       [Symbol(corked)]: 0,
+2023-12-01 01:43:58:       [Symbol(kOutHeaders)]: [Object: null prototype],
+2023-12-01 01:43:58:       [Symbol(errored)]: null,
+2023-12-01 01:43:58:       [Symbol(kUniqueHeaders)]: null
+2023-12-01 01:43:58:     },
+2023-12-01 01:43:58:     _currentUrl: 'https://quickchart.io/chart?c=%7B%22type%22:%22line%22,%22data%22:%7B%22labels%22:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],%22datasets%22:[%7B%22data%22:[126374,126438,126765,127178,127394,157037,172236,2236,2514,3864,5617,6193,7412,9082,43053,43784,45478,46255,48184,49872],%22borderColor%22:%22lightblue%22,%22borderWidth%22:3,%22fill%22:false%7D]%7D,%22options%22:%7B%22scales%22:%7B%22y%22:%7B%22beginAtZero%22:true,%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D,%22x%22:%7B%22ticks%22:%7B%22color%22:%22white%22,%22font%22:%7B%22size%22:16%7D%7D%7D%7D,%22plugins%22:%7B%22legend%22:%7B%22labels%22:%7B%22color%22:%22white%22,%22font%22:%7B%22weight%22:%22bold%22,%22size%22:16%7D%7D%7D%7D%7D%7D',
+2023-12-01 01:43:58:     [Symbol(kCapture)]: false
+2023-12-01 01:43:58:   },
+2023-12-01 01:43:58:   cause: Error: connect ETIMEDOUT 2606:4700:20::681a:5dd:443
+2023-12-01 01:43:58:       at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16) {
+2023-12-01 01:43:58:     errno: -4039,
+2023-12-01 01:43:58:     code: 'ETIMEDOUT',
+2023-12-01 01:43:58:     syscall: 'connect',
+2023-12-01 01:43:58:     address: '2606:4700:20::681a:5dd',
+2023-12-01 01:43:58:     port: 443
+2023-12-01 01:43:58:   }
+2023-12-01 01:43:58: }
+2023-12-01 13:09:37: (node:25160) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-12-01 13:09:37: (Use `node --trace-warnings ...` to show where the warning was created)
+2023-12-02 23:38:15: (node:25864) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2023-12-02 23:38:15: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-20 00:02:25: (node:11208) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-20 00:02:25: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-20 10:08:33: (node:17996) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-20 10:08:33: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-20 22:54:24: (node:21916) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-20 22:54:24: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-21 08:46:33: (node:22072) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-21 08:46:33: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-22 14:20:43: (node:14672) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-22 14:20:43: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-23 09:40:49: (node:8624) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-23 09:40:49: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-24 00:19:38: 
+2024-09-24 00:19:38: Error updating stock prices:  MongoServerSelectionError: getaddrinfo ENOTFOUND ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net
+2024-09-24 00:19:38:     at Timeout._onTimeout (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\sdam\topology.js:278:38)
+2024-09-24 00:19:38:     at listOnTimeout (node:internal/timers:573:17)
+2024-09-24 00:19:38:     at process.processTimers (node:internal/timers:514:7) {
+2024-09-24 00:19:38:   reason: TopologyDescription {
+2024-09-24 00:19:38:     type: 'ReplicaSetNoPrimary',
+2024-09-24 00:19:38:     servers: Map(3) {
+2024-09-24 00:19:38:       'ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:19:38:       'ac-8zkrmo7-shard-00-00.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:19:38:       'ac-8zkrmo7-shard-00-01.7saf4un.mongodb.net:27017' => [ServerDescription]
+2024-09-24 00:19:38:     },
+2024-09-24 00:19:38:     stale: false,
+2024-09-24 00:19:38:     compatible: true,
+2024-09-24 00:19:38:     heartbeatFrequencyMS: 10000,
+2024-09-24 00:19:38:     localThresholdMS: 15,
+2024-09-24 00:19:38:     setName: 'atlas-wk5h5f-shard-0',
+2024-09-24 00:19:38:     maxElectionId: new ObjectId("7fffffff0000000000000186"),
+2024-09-24 00:19:38:     maxSetVersion: 100,
+2024-09-24 00:19:38:     commonWireVersion: 0,
+2024-09-24 00:19:38:     logicalSessionTimeoutMinutes: null
+2024-09-24 00:19:38:   },
+2024-09-24 00:19:38:   code: undefined,
+2024-09-24 00:19:38:   [Symbol(errorLabels)]: Set(0) {}
+2024-09-24 00:19:38: }
+2024-09-24 00:24:38: 
+2024-09-24 00:24:38: Error updating stock prices:  MongoServerSelectionError: getaddrinfo ENOTFOUND ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net
+2024-09-24 00:24:38:     at Timeout._onTimeout (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\sdam\topology.js:278:38)
+2024-09-24 00:24:38:     at listOnTimeout (node:internal/timers:573:17)
+2024-09-24 00:24:38:     at process.processTimers (node:internal/timers:514:7) {
+2024-09-24 00:24:38:   reason: TopologyDescription {
+2024-09-24 00:24:38:     type: 'ReplicaSetNoPrimary',
+2024-09-24 00:24:38:     servers: Map(3) {
+2024-09-24 00:24:38:       'ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:24:38:       'ac-8zkrmo7-shard-00-00.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:24:38:       'ac-8zkrmo7-shard-00-01.7saf4un.mongodb.net:27017' => [ServerDescription]
+2024-09-24 00:24:38:     },
+2024-09-24 00:24:38:     stale: false,
+2024-09-24 00:24:38:     compatible: true,
+2024-09-24 00:24:38:     heartbeatFrequencyMS: 10000,
+2024-09-24 00:24:38:     localThresholdMS: 15,
+2024-09-24 00:24:38:     setName: 'atlas-wk5h5f-shard-0',
+2024-09-24 00:24:38:     maxElectionId: new ObjectId("7fffffff0000000000000186"),
+2024-09-24 00:24:38:     maxSetVersion: 100,
+2024-09-24 00:24:38:     commonWireVersion: 0,
+2024-09-24 00:24:38:     logicalSessionTimeoutMinutes: null
+2024-09-24 00:24:38:   },
+2024-09-24 00:24:38:   code: undefined,
+2024-09-24 00:24:38:   [Symbol(errorLabels)]: Set(0) {}
+2024-09-24 00:24:38: }
+2024-09-24 00:29:38: 
+2024-09-24 00:29:38: Error updating stock prices:  MongoServerSelectionError: getaddrinfo ENOTFOUND ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net
+2024-09-24 00:29:38:     at Timeout._onTimeout (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\sdam\topology.js:278:38)
+2024-09-24 00:29:38:     at listOnTimeout (node:internal/timers:573:17)
+2024-09-24 00:29:38:     at process.processTimers (node:internal/timers:514:7) {
+2024-09-24 00:29:38:   reason: TopologyDescription {
+2024-09-24 00:29:38:     type: 'ReplicaSetNoPrimary',
+2024-09-24 00:29:38:     servers: Map(3) {
+2024-09-24 00:29:38:       'ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:29:38:       'ac-8zkrmo7-shard-00-00.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:29:38:       'ac-8zkrmo7-shard-00-01.7saf4un.mongodb.net:27017' => [ServerDescription]
+2024-09-24 00:29:38:     },
+2024-09-24 00:29:38:     stale: false,
+2024-09-24 00:29:38:     compatible: true,
+2024-09-24 00:29:38:     heartbeatFrequencyMS: 10000,
+2024-09-24 00:29:38:     localThresholdMS: 15,
+2024-09-24 00:29:38:     setName: 'atlas-wk5h5f-shard-0',
+2024-09-24 00:29:38:     maxElectionId: new ObjectId("7fffffff0000000000000186"),
+2024-09-24 00:29:38:     maxSetVersion: 100,
+2024-09-24 00:29:38:     commonWireVersion: 0,
+2024-09-24 00:29:38:     logicalSessionTimeoutMinutes: null
+2024-09-24 00:29:38:   },
+2024-09-24 00:29:38:   code: undefined,
+2024-09-24 00:29:38:   [Symbol(errorLabels)]: Set(0) {}
+2024-09-24 00:29:38: }
+2024-09-24 00:34:38: 
+2024-09-24 00:34:38: Error updating stock prices:  MongoServerSelectionError: getaddrinfo ENOTFOUND ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net
+2024-09-24 00:34:38:     at Timeout._onTimeout (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\sdam\topology.js:278:38)
+2024-09-24 00:34:38:     at listOnTimeout (node:internal/timers:573:17)
+2024-09-24 00:34:38:     at process.processTimers (node:internal/timers:514:7) {
+2024-09-24 00:34:38:   reason: TopologyDescription {
+2024-09-24 00:34:38:     type: 'ReplicaSetNoPrimary',
+2024-09-24 00:34:38:     servers: Map(3) {
+2024-09-24 00:34:38:       'ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:34:38:       'ac-8zkrmo7-shard-00-00.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:34:38:       'ac-8zkrmo7-shard-00-01.7saf4un.mongodb.net:27017' => [ServerDescription]
+2024-09-24 00:34:38:     },
+2024-09-24 00:34:38:     stale: false,
+2024-09-24 00:34:38:     compatible: true,
+2024-09-24 00:34:38:     heartbeatFrequencyMS: 10000,
+2024-09-24 00:34:38:     localThresholdMS: 15,
+2024-09-24 00:34:38:     setName: 'atlas-wk5h5f-shard-0',
+2024-09-24 00:34:38:     maxElectionId: new ObjectId("7fffffff0000000000000186"),
+2024-09-24 00:34:38:     maxSetVersion: 100,
+2024-09-24 00:34:38:     commonWireVersion: 0,
+2024-09-24 00:34:38:     logicalSessionTimeoutMinutes: null
+2024-09-24 00:34:38:   },
+2024-09-24 00:34:38:   code: undefined,
+2024-09-24 00:34:38:   [Symbol(errorLabels)]: Set(0) {}
+2024-09-24 00:34:38: }
+2024-09-24 00:39:38: 
+2024-09-24 00:39:38: Error updating stock prices:  MongoServerSelectionError: getaddrinfo ENOTFOUND ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net
+2024-09-24 00:39:38:     at Timeout._onTimeout (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\sdam\topology.js:278:38)
+2024-09-24 00:39:38:     at listOnTimeout (node:internal/timers:573:17)
+2024-09-24 00:39:38:     at process.processTimers (node:internal/timers:514:7) {
+2024-09-24 00:39:38:   reason: TopologyDescription {
+2024-09-24 00:39:38:     type: 'ReplicaSetNoPrimary',
+2024-09-24 00:39:38:     servers: Map(3) {
+2024-09-24 00:39:38:       'ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:39:38:       'ac-8zkrmo7-shard-00-00.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:39:38:       'ac-8zkrmo7-shard-00-01.7saf4un.mongodb.net:27017' => [ServerDescription]
+2024-09-24 00:39:38:     },
+2024-09-24 00:39:38:     stale: false,
+2024-09-24 00:39:38:     compatible: true,
+2024-09-24 00:39:38:     heartbeatFrequencyMS: 10000,
+2024-09-24 00:39:38:     localThresholdMS: 15,
+2024-09-24 00:39:38:     setName: 'atlas-wk5h5f-shard-0',
+2024-09-24 00:39:38:     maxElectionId: new ObjectId("7fffffff0000000000000186"),
+2024-09-24 00:39:38:     maxSetVersion: 100,
+2024-09-24 00:39:38:     commonWireVersion: 0,
+2024-09-24 00:39:38:     logicalSessionTimeoutMinutes: null
+2024-09-24 00:39:38:   },
+2024-09-24 00:39:38:   code: undefined,
+2024-09-24 00:39:38:   [Symbol(errorLabels)]: Set(0) {}
+2024-09-24 00:39:38: }
+2024-09-24 00:44:38: 
+2024-09-24 00:44:38: Error updating stock prices:  MongoServerSelectionError: getaddrinfo ENOTFOUND ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net
+2024-09-24 00:44:38:     at Timeout._onTimeout (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\sdam\topology.js:278:38)
+2024-09-24 00:44:38:     at listOnTimeout (node:internal/timers:573:17)
+2024-09-24 00:44:38:     at process.processTimers (node:internal/timers:514:7) {
+2024-09-24 00:44:38:   reason: TopologyDescription {
+2024-09-24 00:44:38:     type: 'ReplicaSetNoPrimary',
+2024-09-24 00:44:38:     servers: Map(3) {
+2024-09-24 00:44:38:       'ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:44:38:       'ac-8zkrmo7-shard-00-00.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:44:38:       'ac-8zkrmo7-shard-00-01.7saf4un.mongodb.net:27017' => [ServerDescription]
+2024-09-24 00:44:38:     },
+2024-09-24 00:44:38:     stale: false,
+2024-09-24 00:44:38:     compatible: true,
+2024-09-24 00:44:38:     heartbeatFrequencyMS: 10000,
+2024-09-24 00:44:38:     localThresholdMS: 15,
+2024-09-24 00:44:38:     setName: 'atlas-wk5h5f-shard-0',
+2024-09-24 00:44:38:     maxElectionId: new ObjectId("7fffffff0000000000000186"),
+2024-09-24 00:44:38:     maxSetVersion: 100,
+2024-09-24 00:44:38:     commonWireVersion: 0,
+2024-09-24 00:44:38:     logicalSessionTimeoutMinutes: null
+2024-09-24 00:44:38:   },
+2024-09-24 00:44:38:   code: undefined,
+2024-09-24 00:44:38:   [Symbol(errorLabels)]: Set(0) {}
+2024-09-24 00:44:38: }
+2024-09-24 00:49:38: 
+2024-09-24 00:49:38: Error updating stock prices:  MongoServerSelectionError: getaddrinfo ENOTFOUND ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net
+2024-09-24 00:49:38:     at Timeout._onTimeout (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\sdam\topology.js:278:38)
+2024-09-24 00:49:38:     at listOnTimeout (node:internal/timers:573:17)
+2024-09-24 00:49:38:     at process.processTimers (node:internal/timers:514:7) {
+2024-09-24 00:49:38:   reason: TopologyDescription {
+2024-09-24 00:49:38:     type: 'ReplicaSetNoPrimary',
+2024-09-24 00:49:38:     servers: Map(3) {
+2024-09-24 00:49:38:       'ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:49:38:       'ac-8zkrmo7-shard-00-00.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 00:49:38:       'ac-8zkrmo7-shard-00-01.7saf4un.mongodb.net:27017' => [ServerDescription]
+2024-09-24 00:49:38:     },
+2024-09-24 00:49:38:     stale: false,
+2024-09-24 00:49:38:     compatible: true,
+2024-09-24 00:49:38:     heartbeatFrequencyMS: 10000,
+2024-09-24 00:49:38:     localThresholdMS: 15,
+2024-09-24 00:49:38:     setName: 'atlas-wk5h5f-shard-0',
+2024-09-24 00:49:38:     maxElectionId: new ObjectId("7fffffff0000000000000186"),
+2024-09-24 00:49:38:     maxSetVersion: 100,
+2024-09-24 00:49:38:     commonWireVersion: 0,
+2024-09-24 00:49:38:     logicalSessionTimeoutMinutes: null
+2024-09-24 00:49:38:   },
+2024-09-24 00:49:38:   code: undefined,
+2024-09-24 00:49:38:   [Symbol(errorLabels)]: Set(0) {}
+2024-09-24 00:49:38: }
+2024-09-24 01:05:16: 
+2024-09-24 01:05:16: Error updating stock prices:  MongoServerSelectionError: getaddrinfo ENOTFOUND ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net
+2024-09-24 01:05:16:     at Timeout._onTimeout (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\sdam\topology.js:278:38)
+2024-09-24 01:05:16:     at listOnTimeout (node:internal/timers:573:17)
+2024-09-24 01:05:16:     at process.processTimers (node:internal/timers:514:7) {
+2024-09-24 01:05:16:   reason: TopologyDescription {
+2024-09-24 01:05:16:     type: 'ReplicaSetNoPrimary',
+2024-09-24 01:05:16:     servers: Map(3) {
+2024-09-24 01:05:16:       'ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 01:05:16:       'ac-8zkrmo7-shard-00-00.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-24 01:05:16:       'ac-8zkrmo7-shard-00-01.7saf4un.mongodb.net:27017' => [ServerDescription]
+2024-09-24 01:05:16:     },
+2024-09-24 01:05:16:     stale: false,
+2024-09-24 01:05:16:     compatible: true,
+2024-09-24 01:05:16:     heartbeatFrequencyMS: 10000,
+2024-09-24 01:05:16:     localThresholdMS: 15,
+2024-09-24 01:05:16:     setName: 'atlas-wk5h5f-shard-0',
+2024-09-24 01:05:16:     maxElectionId: new ObjectId("7fffffff0000000000000186"),
+2024-09-24 01:05:16:     maxSetVersion: 100,
+2024-09-24 01:05:16:     commonWireVersion: 0,
+2024-09-24 01:05:16:     logicalSessionTimeoutMinutes: null
+2024-09-24 01:05:16:   },
+2024-09-24 01:05:16:   code: undefined,
+2024-09-24 01:05:16:   [Symbol(errorLabels)]: Set(0) {}
+2024-09-24 01:05:16: }
+2024-09-24 11:45:34: (node:29048) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-24 11:45:34: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-24 22:51:20: (node:10616) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-24 22:51:20: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-24 23:01:50: (node:14880) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-24 23:01:50: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-25 20:05:20: (node:11132) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-25 20:05:20: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-25 20:52:30: (node:29816) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-25 20:52:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-26 22:08:01: (node:7188) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-26 22:08:01: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-27 10:32:05: (node:16300) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-27 10:32:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-28 20:03:20: (node:11228) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-28 20:03:20: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-28 23:03:29: (node:26512) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-28 23:03:29: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-29 19:02:13: (node:4404) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-29 19:02:13: (Use `node --trace-warnings ...` to show where the warning was created)
