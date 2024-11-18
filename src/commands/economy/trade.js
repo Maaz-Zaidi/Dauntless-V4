@@ -118,9 +118,9 @@ module.exports = {
                     return;
             }
 
-            let item = await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } ,userId: user.userId  });
-            if (!item) item = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId   });
-            if (!item) item = await Usable.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId   });
+            let item = await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } ,userId: user.userId  });
+            if (!item) item = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId   });
+            if (!item) item = await Usable.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId   });
             
             if (!item) {
                 const embed = new EmbedBuilder()
@@ -143,9 +143,9 @@ module.exports = {
             }
         
             console.log(partner.userId)
-            let partnerItem = await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") }, userId: partner.userId  });
-            if (!partnerItem) partnerItem = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") }, userId: partner.userId   });
-            if (!partnerItem) partnerItem = await Usable.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") }, userId: partner.userId   });
+            let partnerItem = await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") }, userId: partner.userId  });
+            if (!partnerItem) partnerItem = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") }, userId: partner.userId   });
+            if (!partnerItem) partnerItem = await Usable.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") }, userId: partner.userId   });
             
             if (!partnerItem) {
                 const embed = new EmbedBuilder()

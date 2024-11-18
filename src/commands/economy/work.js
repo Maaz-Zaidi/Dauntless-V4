@@ -261,8 +261,8 @@ module.exports = {
           }
     
           let itemName = "Tax Evasion";
-          const targetItem = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , market: true }) 
-            || await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , market: true });
+          const targetItem = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , market: true }) 
+            || await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , market: true });
             
           if (!targetItem) {
             interaction.editReply(`Item: ${itemName} does not exist in the database`);

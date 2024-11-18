@@ -42,8 +42,8 @@ module.exports = {
         }
 
         const user = await User.findOne({ userId: interaction.user.id });
-        const targetUsable = await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId });
-        const targetBook = await RecipeBook.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId }).populate('recipes');
+        const targetUsable = await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId });
+        const targetBook = await RecipeBook.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId }).populate('recipes');
         console.log(itemName)
         console.log(user.userId)
         const bank = await Bank.findOne({name: "Dauntless"})

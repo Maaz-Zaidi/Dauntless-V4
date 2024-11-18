@@ -242,7 +242,7 @@ module.exports = {
                                 break;
                         }
 
-                        const targetItem = await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: null });
+                        const targetItem = await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: null });
 
                         if (!targetItem) {
                             const embed = new EmbedBuilder()
@@ -305,10 +305,10 @@ module.exports = {
                     }
 
                     // Let's find the item, for simplicity, we'll look in Equipment and Usables only, you can extend this.
-                    const targetItem = await RecipeBooks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , market: true, userId: null }) 
-                                    || await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , market: true, userId: null }) 
-                                    || await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , market: true, userId: null }) 
-                                    || await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , market: true, userId: null });
+                    const targetItem = await RecipeBooks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , market: true, userId: null }) 
+                                    || await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , market: true, userId: null }) 
+                                    || await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , market: true, userId: null }) 
+                                    || await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , market: true, userId: null });
 
                     
 
@@ -483,20 +483,20 @@ module.exports = {
                     return;
                 }
 
-                const targetEquipmentX = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: null  });
-                const targetUsableX = await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: null  });
-                const targetMaterialX = await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: null  });
-                const targetBookX = await RecipeBooks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: null  });
-                const targetStockX = await Stocks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: null  });
-                const targetSpellX = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: null  });
+                const targetEquipmentX = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: null  });
+                const targetUsableX = await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: null  });
+                const targetMaterialX = await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: null  });
+                const targetBookX = await RecipeBooks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: null  });
+                const targetStockX = await Stocks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: null  });
+                const targetSpellX = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: null  });
                 const targetItemX = targetEquipmentX || targetUsableX || targetMaterialX || targetBookX || targetStockX;
             
-                const targetEquipment = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId  });
-                const targetUsable = await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId  });
-                const targetMaterial = await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId  });
-                const targetBook = await RecipeBooks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId  });
-                const targetStock = await Stocks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId  });
-                const targetSpell = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId  });
+                const targetEquipment = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId  });
+                const targetUsable = await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId  });
+                const targetMaterial = await Material.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId  });
+                const targetBook = await RecipeBooks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId  });
+                const targetStock = await Stocks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId  });
+                const targetSpell = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId  });
                 const targetItem = targetEquipment || targetUsable || targetMaterial || targetBook || targetStock;
 
                 if(targetStockX){

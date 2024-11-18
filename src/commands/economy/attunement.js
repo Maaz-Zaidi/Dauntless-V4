@@ -97,7 +97,7 @@ module.exports = {
                         interaction.editReply({embeds: [embed]})
                         return;
                  }
-                 const spell = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } });
+                 const spell = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } });
 
                  if (!spell) {
                     const embed = new EmbedBuilder()
@@ -173,7 +173,7 @@ module.exports = {
                 }
 
                 // Find the item in the inventory 
-                const targetSpell = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } });
+                const targetSpell = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } });
 
                 if(!targetSpell){
                     const embed = new EmbedBuilder()

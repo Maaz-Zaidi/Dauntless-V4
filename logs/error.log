@@ -1919,3 +1919,149 @@
 2024-09-28 23:03:29: (Use `node --trace-warnings ...` to show where the warning was created)
 2024-09-29 19:02:13: (node:4404) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
 2024-09-29 19:02:13: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-30 10:27:41: (node:22868) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-09-30 10:27:41: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-09-30 21:07:13: 
+2024-09-30 21:07:13: Error updating stock prices:  MongoServerSelectionError: getaddrinfo ENOTFOUND ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net
+2024-09-30 21:07:13:     at Timeout._onTimeout (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\sdam\topology.js:278:38)
+2024-09-30 21:07:13:     at listOnTimeout (node:internal/timers:573:17)
+2024-09-30 21:07:13:     at process.processTimers (node:internal/timers:514:7) {
+2024-09-30 21:07:13:   reason: TopologyDescription {
+2024-09-30 21:07:13:     type: 'ReplicaSetNoPrimary',
+2024-09-30 21:07:13:     servers: Map(3) {
+2024-09-30 21:07:13:       'ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-30 21:07:13:       'ac-8zkrmo7-shard-00-00.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-30 21:07:13:       'ac-8zkrmo7-shard-00-01.7saf4un.mongodb.net:27017' => [ServerDescription]
+2024-09-30 21:07:13:     },
+2024-09-30 21:07:13:     stale: false,
+2024-09-30 21:07:13:     compatible: true,
+2024-09-30 21:07:13:     heartbeatFrequencyMS: 10000,
+2024-09-30 21:07:13:     localThresholdMS: 15,
+2024-09-30 21:07:13:     setName: 'atlas-wk5h5f-shard-0',
+2024-09-30 21:07:13:     maxElectionId: new ObjectId("7fffffff0000000000000189"),
+2024-09-30 21:07:13:     maxSetVersion: 103,
+2024-09-30 21:07:13:     commonWireVersion: 0,
+2024-09-30 21:07:13:     logicalSessionTimeoutMinutes: null
+2024-09-30 21:07:13:   },
+2024-09-30 21:07:13:   code: undefined,
+2024-09-30 21:07:13:   [Symbol(errorLabels)]: Set(0) {}
+2024-09-30 21:07:13: }
+2024-09-30 21:12:13: 
+2024-09-30 21:12:13: Error updating stock prices:  MongoServerSelectionError: getaddrinfo ENOTFOUND ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net
+2024-09-30 21:12:13:     at Timeout._onTimeout (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\sdam\topology.js:278:38)
+2024-09-30 21:12:13:     at listOnTimeout (node:internal/timers:573:17)
+2024-09-30 21:12:13:     at process.processTimers (node:internal/timers:514:7) {
+2024-09-30 21:12:13:   reason: TopologyDescription {
+2024-09-30 21:12:13:     type: 'ReplicaSetNoPrimary',
+2024-09-30 21:12:13:     servers: Map(3) {
+2024-09-30 21:12:13:       'ac-8zkrmo7-shard-00-02.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-30 21:12:13:       'ac-8zkrmo7-shard-00-00.7saf4un.mongodb.net:27017' => [ServerDescription],
+2024-09-30 21:12:13:       'ac-8zkrmo7-shard-00-01.7saf4un.mongodb.net:27017' => [ServerDescription]
+2024-09-30 21:12:13:     },
+2024-09-30 21:12:13:     stale: false,
+2024-09-30 21:12:13:     compatible: true,
+2024-09-30 21:12:13:     heartbeatFrequencyMS: 10000,
+2024-09-30 21:12:13:     localThresholdMS: 15,
+2024-09-30 21:12:13:     setName: 'atlas-wk5h5f-shard-0',
+2024-09-30 21:12:13:     maxElectionId: new ObjectId("7fffffff0000000000000189"),
+2024-09-30 21:12:13:     maxSetVersion: 103,
+2024-09-30 21:12:13:     commonWireVersion: 0,
+2024-09-30 21:12:13:     logicalSessionTimeoutMinutes: null
+2024-09-30 21:12:13:   },
+2024-09-30 21:12:13:   code: undefined,
+2024-09-30 21:12:13:   [Symbol(errorLabels)]: Set(0) {}
+2024-09-30 21:12:13: }
+2024-10-01 13:04:53: (node:11092) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-01 13:04:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-02 11:02:23: (node:21232) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-02 11:02:23: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-03 19:46:04: (node:10116) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-03 19:46:04: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-05 14:35:37: (node:9496) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-05 14:35:37: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-06 11:55:44: (node:22572) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-06 11:55:44: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-07 13:22:08: (node:2432) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-07 13:22:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-08 10:52:45: (node:2304) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-08 10:52:45: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-09 20:36:47: (node:2552) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-09 20:36:47: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-10 12:02:14: (node:10728) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-10 12:02:14: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-11 22:30:25: (node:12608) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-11 22:30:25: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-13 20:43:33: (node:16416) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-13 20:43:33: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-14 00:32:51: (node:4604) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-14 00:32:51: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-14 16:12:09: (node:19608) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-14 16:12:09: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-15 13:39:26: (node:25984) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-15 13:39:26: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-16 12:57:16: (node:16756) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-16 12:57:16: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-18 18:04:36: (node:20884) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-18 18:04:36: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-19 13:29:25: (node:3428) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-19 13:29:25: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-23 19:12:18: (node:2436) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-23 19:12:18: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-24 11:02:34: (node:8360) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-24 11:02:34: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-26 12:39:20: (node:26444) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-26 12:39:20: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-28 08:49:15: (node:3132) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-28 08:49:15: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-29 10:20:15: (node:19584) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-29 10:20:15: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-30 22:19:03: (node:26852) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-30 22:19:03: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-10-31 10:00:10: (node:2648) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-10-31 10:00:10: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-02 22:17:42: (node:19692) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-02 22:17:42: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-03 08:45:01: (node:1912) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-03 08:45:01: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-03 12:44:16: (node:3048) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-03 12:44:16: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-04 14:56:42: (node:4456) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-04 14:56:42: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-05 08:33:50: (node:18728) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-05 08:33:50: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-06 08:25:22: (node:25280) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-06 08:25:22: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-07 12:26:06: (node:21692) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-07 12:26:06: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-08 08:59:36: (node:18412) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-08 08:59:36: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-08 17:47:28: Error in /blackjack: TypeError: Cannot read properties of undefined (reading 'value')
+2024-11-08 17:48:37: Error in /blackjack: TypeError: Cannot read properties of undefined (reading 'value')
+2024-11-09 10:07:42: (node:17896) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-09 10:07:42: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-10 10:18:38: (node:4064) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-10 10:18:38: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-10 19:07:22: (node:24056) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-10 19:07:22: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-11 08:36:30: (node:8140) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-11 08:36:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-11 10:40:15: (node:23308) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-11 10:40:15: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-11 12:02:55: (node:19292) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-11 12:02:55: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-11 12:15:01: (node:24204) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-11 12:15:01: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-12 14:16:38: (node:14580) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-12 14:16:38: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-13 09:40:02: (node:18640) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-13 09:40:02: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-14 10:10:03: (node:17472) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-14 10:10:03: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-15 19:17:19: (node:21308) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-15 19:17:19: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-16 12:01:59: (node:17184) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-16 12:01:59: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-17 12:19:29: (node:11212) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-17 12:19:29: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-17 13:58:05: (node:3412) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-17 13:58:05: (Use `node --trace-warnings ...` to show where the warning was created)

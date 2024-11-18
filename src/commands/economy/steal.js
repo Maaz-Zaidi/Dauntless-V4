@@ -129,13 +129,11 @@ module.exports = {
             const ropeItem = await Material.findOne({ name: "Rope", userId: thief.userId });
             const securityModule = await Usable.findOne({name: "Bank Security Module", userId: target.userId})
 
-            let balancer = thief.balance;
-            if(target.balance < thief.balance) balancer = target.balance;
+            let balancer =  (target.balance - thief.balance) * 0.0005;
+
+            balancer = Math.max(Math.min(balancer, 30), -30);
             
-            let successRate = 100 - ((stolenAmount/balancer) * 90);
-            if(successRate > 50){
-                successRate = 50;
-            }
+            let successRate = 40 + balancer;
             let additionalStatements = "";
 
             if (ropeItem && ropeItem.quantity > 1) {
@@ -152,12 +150,15 @@ module.exports = {
             }
 
             // Calculate dexterity-based increase with a cap of 10
-            let dexterityIncrease = (thief.dexterityLevel + thief.dexterityBonus - target.defenseBonus - target.defenseLevel) * 0.5;
-            dexterityIncrease = Math.min(dexterityIncrease, 7); // Cap at +7
+            let dexterityIncrease = (thief.dexterityLevel + thief.dexterityBonus - target.defenseBonus - target.defenseLevel) * 0.05;
+            dexterityIncrease = Math.min(dexterityIncrease, 10); 
+            dexterityIncrease = Math.max(dexterityIncrease, -2)
 
             // Calculate luck-based increase with a cap of 10
-            let luckIncrease = (thief.luckLevel + thief.luckBonus - target.luckLevel - target.luckBonus) * 0.3;
-            luckIncrease = Math.min(luckIncrease, 7); // Cap at +7
+            let luckIncrease = (thief.luckLevel + thief.luckBonus - target.luckLevel - target.luckBonus) * 0.03;
+            luckIncrease = Math.min(luckIncrease, 10); 
+            luckIncrease = Math.max(luckIncrease, -2);
+
 
             // Add capped values to the success rate
             successRate += dexterityIncrease;
@@ -172,6 +173,8 @@ module.exports = {
                     .setDescription(`A Level ${securityModule.quantity} Security Module has been triggered, hindering your heist`)
                 interaction.editReply({embeds: [embed]});
             }
+
+            successRate = Math.max(successRate, 1)
 
             if(successRate > 85){
                 successRate = 85;
@@ -212,7 +215,7 @@ module.exports = {
             }
 
             const randomNumber = Math.random() * 100;  // Random number between 0 and 100.
-            let neutral = successRate*2;
+            let neutral = Math.min(successRate*2, 90);
             
             if (successRate > 35){
                 neutral = successRate + 15
@@ -224,8 +227,6 @@ module.exports = {
             console.log(randomNumber)
             console.log(successRate)
             if (randomNumber <= successRate) {
-                // Here you can implement the logic for a successful theft. 
-                // For instance, transferring some balance from the target to the thief.
                 target.balance -= stolenAmount;
                 thief.balance += stolenAmount;
 

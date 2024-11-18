@@ -62,7 +62,7 @@ module.exports = {
             const dorosEarned = Math.floor(Math.random() * (800 - 200 + 1) + 200);
 
             let itemName = "Tax Evasion";
-            const targetItem = await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , market: true });
+            const targetItem = await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , market: true });
                 
             if (!targetItem) {
                 interaction.editReply(`Item: ${itemName} does not exist in the database`);

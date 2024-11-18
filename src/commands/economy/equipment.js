@@ -120,8 +120,8 @@ module.exports = {
                     // To be written
                  }
 
-                 const equippedItem = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: "E" + user.userId });
-                 const equippedTitle = await Title.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId });
+                 const equippedItem = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: "E" + user.userId });
+                 const equippedTitle = await Title.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId });
                     
                  if (!equippedItem && !equippedTitle) {
                     const embed = new EmbedBuilder()
@@ -357,7 +357,7 @@ module.exports = {
             else if (action === 'equip') {
                 
                 const itemName = interaction.options.getString('item'); // Assuming you have the option in the command setup
-                const equippedTitle = await Title.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId });
+                const equippedTitle = await Title.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId });
                 if(!itemName){
                     const embed = new EmbedBuilder()
                             .setColor('Red')
@@ -458,8 +458,8 @@ module.exports = {
                  }
 
                 // Find the item in the inventory 
-                const targetEquipment = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId });
-                console.log("Equipment name:" + new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i"))
+                const targetEquipment = await Equipment.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId });
+                console.log("Equipment name:" + new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i"))
                 console.log("User name:" + user.userId)
                 if(!targetEquipment){
                     const embed = new EmbedBuilder()

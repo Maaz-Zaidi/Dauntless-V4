@@ -125,7 +125,7 @@ module.exports = {
             }
             else if (action === 'buy') {
                     // Let's find the item, for simplicity, we'll look in Equipment and Usables only, you can extend this.
-                    const targetItem = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , market: true })
+                    const targetItem = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , market: true })
 
                     if (itemName === null) {
                         const embed = new EmbedBuilder()
@@ -204,7 +204,7 @@ module.exports = {
                     return;
                 }
 
-                const targetItem = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") }  })
+                const targetItem = await Spell.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") }  })
             
                 const userInventory = await Inventory.findOne({ userId: user.userId });
                 if (!userInventory) {

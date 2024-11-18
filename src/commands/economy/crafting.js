@@ -227,7 +227,7 @@ module.exports = {
                             chance = 0
                         }
 
-                        if(chance > 99) {chance = 99}
+                        if(chance > 95) {chance = 95}
 
                         console.log(chance)
 
@@ -271,6 +271,7 @@ module.exports = {
                                 const newItem = new Equipment(newItemData);
                                 newItem.name = equipmentNamed;
                                 newItem.userId = user.userId;
+                                newItem.market = false;
                                 await newItem.save();
         
                                 userInventory.equipment.push(newItem._id);
@@ -1002,7 +1003,7 @@ module.exports = {
 async function findItemByName(itemName) {
     const models = [Material, Equipment, Usable, Spell, RecipeBook];
     for (let model of models) {
-        const item = await model.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } });
+        const item = await model.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } });
         if (item) {
             return { item, model };
         }

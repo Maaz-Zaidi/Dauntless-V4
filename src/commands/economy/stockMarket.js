@@ -115,7 +115,7 @@ module.exports = {
                 });
             }
             else if (action === 'buy') {
-                    const targetItem = await Stocks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: null }) 
+                    const targetItem = await Stocks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: null }) 
 
                     const itemQuantity = interaction.options.getInteger('quantity') || 1;  // default to 1 if not specified
                     
@@ -226,7 +226,7 @@ module.exports = {
                     return;
                 }
 
-                const targetItem = await Stocks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: user.userId  });;
+                const targetItem = await Stocks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: user.userId  });;
 
                 if(!targetItem){
                     const embed = new EmbedBuilder()
@@ -237,7 +237,7 @@ module.exports = {
                         return;
                 }
 
-                const trueStock = await Stocks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: null  });
+                const trueStock = await Stocks.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: null  });
             
                 if (!(userInventory.stocks.includes(targetItem._id))) {
                     const embed = new EmbedBuilder()

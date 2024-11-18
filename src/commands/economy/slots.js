@@ -152,8 +152,6 @@ module.exports = {
                 winnings = -2 * betAmount; // User loses double their bet amount
             }
 
-            user.balance += winnings;
-
             if (winnings < 0) { // Adjusted the condition to only add XP when the user wins
                 let adjustmentStatement = ""
                 if(user.balance < betAmount * 2){
@@ -166,7 +164,7 @@ module.exports = {
                 const embed = new EmbedBuilder()
                     .setColor('Red')
                     .setTitle('Failure: Ouch...')
-                    .setDescription(`The slots rolled:\n\n${rollResultsEmojis.map(line => "[ㅤ " + line.join(' ㅤ|ㅤ ') + " ㅤ]").join('\n\n')}\n\nLanded on the **BOOM** (double penalty)\nYou've lost \`${betAmount} doros\`${adjustmentStatement}`);
+                    .setDescription(`The slots rolled:\n\n${rollResultsEmojis.map(line => "[ㅤ " + line.join(' ㅤ|ㅤ ') + " ㅤ]").join('\n\n')}\n\nLanded on the **BOOM****BOOM****BOOM** (double penalty)\nYou've lost \`${betAmount*2} doros\`${adjustmentStatement}`);
                 interaction.editReply({embeds: [embed]});
             }
             else if (multiplier > 0) {
@@ -174,7 +172,7 @@ module.exports = {
                 let taxStatement = ""
                 if(winnings >= 500){
                     let itemName = "Tax Evasion";
-                    const targetItem = await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , market: true });
+                    const targetItem = await Usables.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , market: true });
                         
                     if (!targetItem) {
                         interaction.editReply(`Item: ${itemName} does not exist in the database`);
@@ -188,7 +186,6 @@ module.exports = {
                         taxStatement = "\n\nYou also successfully evaded Dauntless Tax! Good job.";
                     } else {
                         user.balance += winnings - tax;
-                        bank.balance += tax
                         await bank.save();
                         taxStatement = `\n\nDauntless will charge a rounded 20% tax on these winnings (${tax} Doros)\nReason: Winnings over 500.`
                     }
@@ -245,11 +242,19 @@ module.exports = {
                     titleAssignment += "\n\nGained the title: *\"Mr. MoneyBags\"*"
                 }
 
-                const embed = new EmbedBuilder()
+                if (multiplier >= 10){
+                    const embed = new EmbedBuilder()
                     .setColor('Green')
                     .setTitle('Success: You Won!')
-                    .setDescription(`The slots rolled:\n\n${rollResultsEmojis.map(line => "[ ㅤ" + line.join('ㅤ |ㅤ ') + " ㅤ]").join('\n\n')}\n\nYou won \`${winnings} doros\`\nGained \`${xpgiven} Luck XP\`${taxStatement}${titleAssignment}`);
+                    .setDescription(`The slots rolled:\n\n${rollResultsEmojis.map(line => "[ ㅤ" + line.join('ㅤ |ㅤ ') + " ㅤ]").join('\n\n')}\n\n::slot_machine: JACKPOT!!!! :slot_machine:\n You won \`${betAmount * multiplier} doros\`\nGained \`${xpgiven} Luck XP\`${taxStatement}${titleAssignment}`);
                 interaction.editReply({embeds: [embed]});
+                }else{
+                    const embed = new EmbedBuilder()
+                    .setColor('Green')
+                    .setTitle('Success: You Won!')
+                    .setDescription(`The slots rolled:\n\n${rollResultsEmojis.map(line => "[ ㅤ" + line.join('ㅤ |ㅤ ') + " ㅤ]").join('\n\n')}\n\nYou won \`${betAmount * multiplier} doros\`\nGained \`${xpgiven} Luck XP\`${taxStatement}${titleAssignment}`);
+                interaction.editReply({embeds: [embed]});
+                }
             } else {
                 user.balance -= betAmount;
                 const embed = new EmbedBuilder()

@@ -378,7 +378,7 @@ module.exports = {
             let itemModel;
     
             for (const model of models) {
-                item = await model.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") }  });
+                item = await model.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") }  });
                 if(model === Equipment) itemModel = "Equipment"
                 if(model === Usables) itemModel = "Usable"
                 if(model === Material) itemModel = "Material"
@@ -547,14 +547,14 @@ module.exports = {
             const models2 = [Equipment, Usables, Material, Stocks, RecipeBooks, Spell];
     
             for (const model of models2) {
-                const existingItem = await model.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") } , userId: interaction.user.id });
+                const existingItem = await model.findOne({ name: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") } , userId: interaction.user.id });
                 if(existingItem){
                     additionalInfo.push(`You own \`x ${existingItem.quantity}\` of this item.`);
                 }
             }
     
             // Check if the item is craftable based on the Recipe schema
-            const recipe = await Recipe.findOne({ resultingItem: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") }  });
+            const recipe = await Recipe.findOne({ resultingItem: { $regex: new RegExp("^" + itemName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") }  });
             if (recipe) {
                 additionalInfo.push('This item is craftable.');
             }

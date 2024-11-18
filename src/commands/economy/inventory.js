@@ -184,7 +184,7 @@ module.exports = {
                             inventoryEmbed.setDescription(`${desc}\n\n**Stocks:**`);
                             items = inventory.stocks.slice(start, end);
                             for (let item of items) {
-                                const trueStock = await Stocks.findOne({ name: { $regex: new RegExp("^" + item.name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + "$", "i") }});
+                                const trueStock = await Stocks.findOne({ name: { $regex: new RegExp("^" + item.name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/['’]/g, "['’]?") + "$", "i") }});
                                 inventoryEmbed.addFields({
                                   name: `${item.name} (${item.description})`,
                                   value: `\`\`\`Quantity:  x ${item.quantity}\nNet Value: ${item.quantity * item.price} Doros -> ${item.quantity * trueStock.price} Doros\`\`\``
