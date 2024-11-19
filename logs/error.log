@@ -2065,3 +2065,33 @@
 2024-11-17 12:19:29: (Use `node --trace-warnings ...` to show where the warning was created)
 2024-11-17 13:58:05: (node:3412) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
 2024-11-17 13:58:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2024-11-18 07:27:43: 
+2024-11-18 07:27:43: Error updating stock prices:  MongoNotConnectedError: Client must be connected before running operations
+2024-11-18 07:27:43:     at executeOperationAsync (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\operations\execute_operation.js:23:19)
+2024-11-18 07:27:43:     at C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\operations\execute_operation.js:12:45
+2024-11-18 07:27:43:     at maybeCallback (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\utils.js:293:21)
+2024-11-18 07:27:43:     at executeOperation (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\operations\execute_operation.js:12:38)
+2024-11-18 07:27:43:     at Collection.updateOne (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\collection.js:203:57)
+2024-11-18 07:27:43:     at NativeCollection.<computed> [as updateOne] (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:244:33)
+2024-11-18 07:27:43:     at Model.$__handleSave (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongoose\lib\model.js:344:33)
+2024-11-18 07:27:43:     at Model.$__save (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongoose\lib\model.js:387:8)
+2024-11-18 07:27:43:     at C:\Users\crims\Documents\Development\Dauntless\node_modules\kareem\index.js:387:18
+2024-11-18 07:27:43:     at C:\Users\crims\Documents\Development\Dauntless\node_modules\kareem\index.js:113:15 {
+2024-11-18 07:27:43:   [Symbol(errorLabels)]: Set(0) {}
+2024-11-18 07:27:43: }
+2024-11-18 07:31:24: 
+2024-11-18 07:31:24: Error updating stock prices:  MongoNotConnectedError: Client must be connected before running operations
+2024-11-18 07:31:24:     at executeOperationAsync (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\operations\execute_operation.js:23:19)
+2024-11-18 07:31:24:     at C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\operations\execute_operation.js:12:45
+2024-11-18 07:31:24:     at maybeCallback (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\utils.js:293:21)
+2024-11-18 07:31:24:     at executeOperation (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\operations\execute_operation.js:12:38)
+2024-11-18 07:31:24:     at Collection.updateOne (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongodb\lib\collection.js:203:57)
+2024-11-18 07:31:24:     at NativeCollection.<computed> [as updateOne] (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:244:33)
+2024-11-18 07:31:24:     at Model.$__handleSave (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongoose\lib\model.js:344:33)
+2024-11-18 07:31:24:     at Model.$__save (C:\Users\crims\Documents\Development\Dauntless\node_modules\mongoose\lib\model.js:387:8)
+2024-11-18 07:31:24:     at C:\Users\crims\Documents\Development\Dauntless\node_modules\kareem\index.js:387:18
+2024-11-18 07:31:24:     at C:\Users\crims\Documents\Development\Dauntless\node_modules\kareem\index.js:113:15 {
+2024-11-18 07:31:24:   [Symbol(errorLabels)]: Set(0) {}
+2024-11-18 07:31:24: }
+2024-11-18 08:22:29: (node:12092) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+2024-11-18 08:22:29: (Use `node --trace-warnings ...` to show where the warning was created)

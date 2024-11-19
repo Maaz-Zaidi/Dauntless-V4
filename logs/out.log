@@ -158905,3 +158905,483 @@
 2024-11-18 07:27:09: [33m[nodemon] watching path(s): src\**\*[39m
 2024-11-18 07:27:09: [33m[nodemon] watching extensions: js,mjs,cjs,json[39m
 2024-11-18 07:27:09: [32m[nodemon] starting `node ./src/index.js`[39m
+2024-11-18 07:27:10: Connected to DB.
+2024-11-18 07:27:10: Error: TypeError: scripts is not a function
+2024-11-18 07:27:11: Updated 0 documents in monsters
+2024-11-18 07:27:11: Updated 0 documents in equipment
+2024-11-18 07:27:11: Updated 0 documents in materials
+2024-11-18 07:27:11: Updated 0 documents in usables
+2024-11-18 07:27:11: Updated 0 documents in recipes
+2024-11-18 07:27:11: Updated 0 documents in recipebooks
+2024-11-18 07:27:11: Updated 0 documents in effects
+2024-11-18 07:27:11: Updated 0 documents in spells
+2024-11-18 07:27:11: Updated 0 documents in stocks
+2024-11-18 07:27:11: Updated 0 documents in titles
+2024-11-18 07:27:11: Updated 0 documents in banks
+2024-11-18 07:27:11: Updated 0 documents in inventories
+2024-11-18 07:27:11: Updated 0 documents in globalmarketposts
+2024-11-18 07:27:11: Updated 0 documents in stealhistories
+2024-11-18 07:27:11: Updated 0 documents in tables
+2024-11-18 07:27:12: Updated 0 documents in quests
+2024-11-18 07:27:12: Updated 0 documents in users
+2024-11-18 07:27:12: All applicable userIds updated!
+2024-11-18 07:27:12: [32m[nodemon] clean exit - waiting for changes before restart[39m
+2024-11-18 07:27:40: [32m[nodemon] restarting due to changes...[39m
+2024-11-18 07:27:40: [32m[nodemon] starting `node ./src/index.js`[39m
+2024-11-18 07:27:41: Connected to DB.
+2024-11-18 07:27:42: 
+2024-11-18 07:27:42: Handling registers for 517764530756124672
+2024-11-18 07:27:42: Updated 0 documents in monsters
+2024-11-18 07:27:42: Updated 0 documents in equipment
+2024-11-18 07:27:42: Updated 0 documents in materials
+2024-11-18 07:27:42: Updated 0 documents in recipes
+2024-11-18 07:27:42: Updated 0 documents in effects
+2024-11-18 07:27:42: Updated 0 documents in usables
+2024-11-18 07:27:42: Updated 0 documents in recipebooks
+2024-11-18 07:27:42: Updated 0 documents in spells
+2024-11-18 07:27:42: Updated 0 documents in banks
+2024-11-18 07:27:42: Updated 0 documents in titles
+2024-11-18 07:27:42: Updated 0 documents in stocks
+2024-11-18 07:27:42: Updated 0 documents in globalmarketposts
+2024-11-18 07:27:42: Updated 0 documents in inventories
+2024-11-18 07:27:42: Updated 0 documents in quests
+2024-11-18 07:27:42: Updated 0 documents in tables
+2024-11-18 07:27:42: 🔁 Edited command "auction".
+2024-11-18 07:27:43: 🔁 Edited command "message".
+2024-11-18 07:27:43: 
+2024-11-18 07:27:43: Handling registers for 582753910943514625
+2024-11-18 07:27:43: Updated 0 documents in stealhistories
+2024-11-18 07:27:43: Updated 0 documents in users
+2024-11-18 07:27:43: All applicable userIds updated!
+2024-11-18 07:27:43: 
+2024-11-18 07:27:43: Updating auction market Mon Nov 18 2024 07:27:43 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:27:43: Error: MongoNotConnectedError: Client must be connected before running operations
+2024-11-18 07:27:43: 🔁 Edited command "auction".
+2024-11-18 07:27:43: 🔁 Edited command "message".
+2024-11-18 07:27:43: 
+2024-11-18 07:27:43: Handling registers for 714913189866897521
+2024-11-18 07:27:43: 🔁 Edited command "auction".
+2024-11-18 07:27:43: 🔁 Edited command "message".
+2024-11-18 07:27:43: 
+2024-11-18 07:27:43: Handling registers for 839198167908220949
+2024-11-18 07:27:44: 🔁 Edited command "auction".
+2024-11-18 07:27:44: 🔁 Edited command "message".
+2024-11-18 07:27:44: 
+2024-11-18 07:27:44: Handling registers for 1077797358198345761
+2024-11-18 07:27:44: 🔁 Edited command "auction".
+2024-11-18 07:27:44: 🔁 Edited command "message".
+2024-11-18 07:27:44: 
+2024-11-18 07:27:44: Handling registers for 1149865513984479262
+2024-11-18 07:27:44: 🔁 Edited command "auction".
+2024-11-18 07:27:45: 🔁 Edited command "message".
+2024-11-18 07:27:45: 
+2024-11-18 07:27:45: Handling registers for 1161045215377895434
+2024-11-18 07:27:45: 🔁 Edited command "auction".
+2024-11-18 07:27:45: 🔁 Edited command "message".
+2024-11-18 07:27:45: 
+2024-11-18 07:27:45: Handling registers for 1162250549731795004
+2024-11-18 07:27:46: 🔁 Edited command "auction".
+2024-11-18 07:27:46: 🔁 Edited command "message".
+2024-11-18 07:27:46: 
+2024-11-18 07:27:46: Handling registers for 1294524671953473588
+2024-11-18 07:27:46: 🔁 Edited command "auction".
+2024-11-18 07:27:46: 🔁 Edited command "message".
+2024-11-18 07:27:46: Dauntless#9452 is online.
+2024-11-18 07:27:55: [32m[nodemon] restarting due to changes...[39m
+2024-11-18 07:27:56: [32m[nodemon] starting `node ./src/index.js`[39m
+2024-11-18 07:27:57: Connected to DB.
+2024-11-18 07:27:57: 
+2024-11-18 07:27:57: Handling registers for 517764530756124672
+2024-11-18 07:27:58: 🔁 Edited command "auction".
+2024-11-18 07:27:58: 🔁 Edited command "message".
+2024-11-18 07:27:58: 
+2024-11-18 07:27:58: Handling registers for 582753910943514625
+2024-11-18 07:27:58: 
+2024-11-18 07:27:58: Successfully updated stock market Mon Nov 18 2024 07:27:58 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:27:58: 
+2024-11-18 07:27:58: Updating auction market Mon Nov 18 2024 07:27:58 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:27:58: 🔁 Edited command "auction".
+2024-11-18 07:27:58: 🔁 Edited command "message".
+2024-11-18 07:27:58: 
+2024-11-18 07:27:58: Handling registers for 714913189866897521
+2024-11-18 07:27:59: 🔁 Edited command "auction".
+2024-11-18 07:27:59: 🔁 Edited command "message".
+2024-11-18 07:27:59: 
+2024-11-18 07:27:59: Handling registers for 839198167908220949
+2024-11-18 07:27:59: 🔁 Edited command "auction".
+2024-11-18 07:27:59: 🔁 Edited command "message".
+2024-11-18 07:27:59: 
+2024-11-18 07:27:59: Handling registers for 1077797358198345761
+2024-11-18 07:28:00: 🔁 Edited command "auction".
+2024-11-18 07:28:00: 🔁 Edited command "message".
+2024-11-18 07:28:00: 
+2024-11-18 07:28:00: Handling registers for 1149865513984479262
+2024-11-18 07:28:00: 🔁 Edited command "auction".
+2024-11-18 07:28:00: 🔁 Edited command "message".
+2024-11-18 07:28:00: 
+2024-11-18 07:28:00: Handling registers for 1161045215377895434
+2024-11-18 07:28:00: 🔁 Edited command "auction".
+2024-11-18 07:28:01: 🔁 Edited command "message".
+2024-11-18 07:28:01: 
+2024-11-18 07:28:01: Handling registers for 1162250549731795004
+2024-11-18 07:28:01: 🔁 Edited command "auction".
+2024-11-18 07:28:01: 🔁 Edited command "message".
+2024-11-18 07:28:01: 
+2024-11-18 07:28:01: Handling registers for 1294524671953473588
+2024-11-18 07:28:01: 🔁 Edited command "auction".
+2024-11-18 07:28:01: 🔁 Edited command "message".
+2024-11-18 07:28:01: Dauntless#9452 is online.
+2024-11-18 07:28:31: [32m[nodemon] restarting due to changes...[39m
+2024-11-18 07:28:31: [32m[nodemon] starting `node ./src/index.js`[39m
+2024-11-18 07:28:33: Connected to DB.
+2024-11-18 07:28:33: 
+2024-11-18 07:28:33: Handling registers for 517764530756124672
+2024-11-18 07:28:34: 
+2024-11-18 07:28:34: Successfully updated stock market Mon Nov 18 2024 07:28:34 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:28:34: 
+2024-11-18 07:28:34: Updating auction market Mon Nov 18 2024 07:28:34 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:28:34: 🔁 Edited command "auction".
+2024-11-18 07:28:34: 🔁 Edited command "message".
+2024-11-18 07:28:34: 
+2024-11-18 07:28:34: Handling registers for 582753910943514625
+2024-11-18 07:28:34: 🔁 Edited command "auction".
+2024-11-18 07:28:34: 🔁 Edited command "message".
+2024-11-18 07:28:34: 
+2024-11-18 07:28:34: Handling registers for 714913189866897521
+2024-11-18 07:28:35: 🔁 Edited command "auction".
+2024-11-18 07:28:36: 🔁 Edited command "message".
+2024-11-18 07:28:36: 
+2024-11-18 07:28:36: Handling registers for 839198167908220949
+2024-11-18 07:28:36: 🔁 Edited command "auction".
+2024-11-18 07:28:36: 🔁 Edited command "message".
+2024-11-18 07:28:36: 
+2024-11-18 07:28:36: Handling registers for 1077797358198345761
+2024-11-18 07:28:36: 🔁 Edited command "auction".
+2024-11-18 07:28:37: 🔁 Edited command "message".
+2024-11-18 07:28:37: 
+2024-11-18 07:28:37: Handling registers for 1149865513984479262
+2024-11-18 07:28:37: 🔁 Edited command "auction".
+2024-11-18 07:28:37: 🔁 Edited command "message".
+2024-11-18 07:28:37: 
+2024-11-18 07:28:37: Handling registers for 1161045215377895434
+2024-11-18 07:28:37: 🔁 Edited command "auction".
+2024-11-18 07:28:38: 🔁 Edited command "message".
+2024-11-18 07:28:38: 
+2024-11-18 07:28:38: Handling registers for 1162250549731795004
+2024-11-18 07:28:38: 🔁 Edited command "auction".
+2024-11-18 07:28:38: 🔁 Edited command "message".
+2024-11-18 07:28:38: 
+2024-11-18 07:28:38: Handling registers for 1294524671953473588
+2024-11-18 07:28:38: 🔁 Edited command "auction".
+2024-11-18 07:28:38: 🔁 Edited command "message".
+2024-11-18 07:28:38: Dauntless#9452 is online.
+2024-11-18 07:31:09: [32m[nodemon] restarting due to changes...[39m
+2024-11-18 07:31:09: [32m[nodemon] starting `node ./src/index.js`[39m
+2024-11-18 07:31:11: Connected to DB.
+2024-11-18 07:31:11: 
+2024-11-18 07:31:11: Handling registers for 517764530756124672
+2024-11-18 07:31:12: 🔁 Edited command "auction".
+2024-11-18 07:31:12: 🔁 Edited command "message".
+2024-11-18 07:31:12: 
+2024-11-18 07:31:12: Handling registers for 582753910943514625
+2024-11-18 07:31:12: 
+2024-11-18 07:31:12: Successfully updated stock market Mon Nov 18 2024 07:31:12 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:31:12: 
+2024-11-18 07:31:12: Updating auction market Mon Nov 18 2024 07:31:12 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:31:12: 🔁 Edited command "auction".
+2024-11-18 07:31:12: 🔁 Edited command "message".
+2024-11-18 07:31:12: 
+2024-11-18 07:31:12: Handling registers for 714913189866897521
+2024-11-18 07:31:13: 🔁 Edited command "auction".
+2024-11-18 07:31:13: 🔁 Edited command "message".
+2024-11-18 07:31:13: 
+2024-11-18 07:31:13: Handling registers for 839198167908220949
+2024-11-18 07:31:13: 🔁 Edited command "auction".
+2024-11-18 07:31:13: 🔁 Edited command "message".
+2024-11-18 07:31:13: 
+2024-11-18 07:31:13: Handling registers for 1077797358198345761
+2024-11-18 07:31:14: 🔁 Edited command "auction".
+2024-11-18 07:31:14: 🔁 Edited command "message".
+2024-11-18 07:31:14: 
+2024-11-18 07:31:14: Handling registers for 1149865513984479262
+2024-11-18 07:31:14: 🔁 Edited command "auction".
+2024-11-18 07:31:14: 🔁 Edited command "message".
+2024-11-18 07:31:14: 
+2024-11-18 07:31:14: Handling registers for 1161045215377895434
+2024-11-18 07:31:14: 🔁 Edited command "auction".
+2024-11-18 07:31:15: 🔁 Edited command "message".
+2024-11-18 07:31:15: 
+2024-11-18 07:31:15: Handling registers for 1162250549731795004
+2024-11-18 07:31:15: 🔁 Edited command "auction".
+2024-11-18 07:31:15: 🔁 Edited command "message".
+2024-11-18 07:31:15: 
+2024-11-18 07:31:15: Handling registers for 1294524671953473588
+2024-11-18 07:31:15: 🔁 Edited command "auction".
+2024-11-18 07:31:15: 🔁 Edited command "message".
+2024-11-18 07:31:15: Dauntless#9452 is online.
+2024-11-18 07:31:21: [32m[nodemon] restarting due to changes...[39m
+2024-11-18 07:31:21: [32m[nodemon] starting `node ./src/index.js`[39m
+2024-11-18 07:31:23: Connected to DB.
+2024-11-18 07:31:23: 
+2024-11-18 07:31:23: Handling registers for 517764530756124672
+2024-11-18 07:31:23: Updated 0 documents in monsters
+2024-11-18 07:31:23: Updated 78 documents in equipment
+2024-11-18 07:31:23: Updated 0 documents in effects
+2024-11-18 07:31:23: Updated 0 documents in recipes
+2024-11-18 07:31:24: Updated 82 documents in materials
+2024-11-18 07:31:24: Updated 8 documents in usables
+2024-11-18 07:31:24: Updated 15 documents in recipebooks
+2024-11-18 07:31:24: Updated 0 documents in spells
+2024-11-18 07:31:24: Updated 0 documents in stocks
+2024-11-18 07:31:24: Updated 0 documents in banks
+2024-11-18 07:31:24: Updated 8 documents in titles
+2024-11-18 07:31:24: Updated 0 documents in globalmarketposts
+2024-11-18 07:31:24: Updated 1 documents in inventories
+2024-11-18 07:31:24: Updated 1 documents in stealhistories
+2024-11-18 07:31:24: Updated 1 documents in users
+2024-11-18 07:31:24: 🔁 Edited command "auction".
+2024-11-18 07:31:24: 🔁 Edited command "message".
+2024-11-18 07:31:24: 
+2024-11-18 07:31:24: Handling registers for 582753910943514625
+2024-11-18 07:31:24: Updated 1 documents in quests
+2024-11-18 07:31:24: Updated 1 documents in tables
+2024-11-18 07:31:24: All applicable userIds updated!
+2024-11-18 07:31:24: 
+2024-11-18 07:31:24: Updating auction market Mon Nov 18 2024 07:31:24 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:31:24: Error: MongoNotConnectedError: Client must be connected before running operations
+2024-11-18 07:31:24: 🔁 Edited command "auction".
+2024-11-18 07:31:24: 🔁 Edited command "message".
+2024-11-18 07:31:24: 
+2024-11-18 07:31:24: Handling registers for 714913189866897521
+2024-11-18 07:31:25: 🔁 Edited command "auction".
+2024-11-18 07:31:25: 🔁 Edited command "message".
+2024-11-18 07:31:25: 
+2024-11-18 07:31:25: Handling registers for 839198167908220949
+2024-11-18 07:31:25: 🔁 Edited command "auction".
+2024-11-18 07:31:25: 🔁 Edited command "message".
+2024-11-18 07:31:25: 
+2024-11-18 07:31:25: Handling registers for 1077797358198345761
+2024-11-18 07:31:25: 🔁 Edited command "auction".
+2024-11-18 07:31:26: 🔁 Edited command "message".
+2024-11-18 07:31:26: 
+2024-11-18 07:31:26: Handling registers for 1149865513984479262
+2024-11-18 07:31:26: 🔁 Edited command "auction".
+2024-11-18 07:31:26: 🔁 Edited command "message".
+2024-11-18 07:31:26: 
+2024-11-18 07:31:26: Handling registers for 1161045215377895434
+2024-11-18 07:31:26: 🔁 Edited command "auction".
+2024-11-18 07:31:26: 🔁 Edited command "message".
+2024-11-18 07:31:26: 
+2024-11-18 07:31:26: Handling registers for 1162250549731795004
+2024-11-18 07:31:27: 🔁 Edited command "auction".
+2024-11-18 07:31:27: 🔁 Edited command "message".
+2024-11-18 07:31:27: 
+2024-11-18 07:31:27: Handling registers for 1294524671953473588
+2024-11-18 07:31:27: 🔁 Edited command "auction".
+2024-11-18 07:31:28: 🔁 Edited command "message".
+2024-11-18 07:31:28: Dauntless#9452 is online.
+2024-11-18 07:32:04: [32m[nodemon] restarting due to changes...[39m
+2024-11-18 07:32:04: [32m[nodemon] starting `node ./src/index.js`[39m
+2024-11-18 07:32:05: Connected to DB.
+2024-11-18 07:32:06: 
+2024-11-18 07:32:06: Handling registers for 517764530756124672
+2024-11-18 07:32:06: 
+2024-11-18 07:32:06: Successfully updated stock market Mon Nov 18 2024 07:32:06 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:32:06: 
+2024-11-18 07:32:06: Updating auction market Mon Nov 18 2024 07:32:06 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:32:06: 🔁 Edited command "auction".
+2024-11-18 07:32:06: 🔁 Edited command "message".
+2024-11-18 07:32:06: 
+2024-11-18 07:32:06: Handling registers for 582753910943514625
+2024-11-18 07:32:07: 🔁 Edited command "auction".
+2024-11-18 07:32:07: 🔁 Edited command "message".
+2024-11-18 07:32:07: 
+2024-11-18 07:32:07: Handling registers for 714913189866897521
+2024-11-18 07:32:07: 🔁 Edited command "auction".
+2024-11-18 07:32:07: 🔁 Edited command "message".
+2024-11-18 07:32:07: 
+2024-11-18 07:32:07: Handling registers for 839198167908220949
+2024-11-18 07:32:08: 🔁 Edited command "auction".
+2024-11-18 07:32:08: 🔁 Edited command "message".
+2024-11-18 07:32:08: 
+2024-11-18 07:32:08: Handling registers for 1077797358198345761
+2024-11-18 07:32:08: 🔁 Edited command "auction".
+2024-11-18 07:32:08: 🔁 Edited command "message".
+2024-11-18 07:32:08: 
+2024-11-18 07:32:08: Handling registers for 1149865513984479262
+2024-11-18 07:32:09: 🔁 Edited command "auction".
+2024-11-18 07:32:09: 🔁 Edited command "message".
+2024-11-18 07:32:09: 
+2024-11-18 07:32:09: Handling registers for 1161045215377895434
+2024-11-18 07:32:09: 🔁 Edited command "auction".
+2024-11-18 07:32:09: 🔁 Edited command "message".
+2024-11-18 07:32:09: 
+2024-11-18 07:32:09: Handling registers for 1162250549731795004
+2024-11-18 07:32:09: 🔁 Edited command "auction".
+2024-11-18 07:32:10: 🔁 Edited command "message".
+2024-11-18 07:32:10: 
+2024-11-18 07:32:10: Handling registers for 1294524671953473588
+2024-11-18 07:32:10: 🔁 Edited command "auction".
+2024-11-18 07:32:10: 🔁 Edited command "message".
+2024-11-18 07:32:10: Dauntless#9452 is online.
+2024-11-18 07:37:07: 
+2024-11-18 07:37:07: Successfully updated stock market Mon Nov 18 2024 07:37:07 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:42:07: 
+2024-11-18 07:42:07: Successfully updated stock market Mon Nov 18 2024 07:42:07 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:47:07: 
+2024-11-18 07:47:07: Successfully updated stock market Mon Nov 18 2024 07:47:07 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:52:07: 
+2024-11-18 07:52:07: Successfully updated stock market Mon Nov 18 2024 07:52:07 GMT-0500 (Eastern Standard Time)
+2024-11-18 07:57:07: 
+2024-11-18 07:57:07: Successfully updated stock market Mon Nov 18 2024 07:57:07 GMT-0500 (Eastern Standard Time)
+2024-11-18 08:02:07: 
+2024-11-18 08:02:07: Successfully updated stock market Mon Nov 18 2024 08:02:07 GMT-0500 (Eastern Standard Time)
+2024-11-18 08:07:07: 
+2024-11-18 08:07:07: Successfully updated stock market Mon Nov 18 2024 08:07:07 GMT-0500 (Eastern Standard Time)
+2024-11-18 08:11:42: [32m[nodemon] restarting due to changes...[39m
+2024-11-18 08:11:43: [32m[nodemon] starting `node ./src/index.js`[39m
+2024-11-18 08:11:44: Connected to DB.
+2024-11-18 08:11:45: 
+2024-11-18 08:11:45: Handling registers for 517764530756124672
+2024-11-18 08:11:45: 
+2024-11-18 08:11:45: Successfully updated stock market Mon Nov 18 2024 08:11:45 GMT-0500 (Eastern Standard Time)
+2024-11-18 08:11:45: 
+2024-11-18 08:11:45: Updating auction market Mon Nov 18 2024 08:11:45 GMT-0500 (Eastern Standard Time)
+2024-11-18 08:11:45: 🔁 Edited command "auction".
+2024-11-18 08:11:45: 🔁 Edited command "message".
+2024-11-18 08:11:45: 
+2024-11-18 08:11:45: Handling registers for 582753910943514625
+2024-11-18 08:11:46: 🔁 Edited command "auction".
+2024-11-18 08:11:46: 🔁 Edited command "message".
+2024-11-18 08:11:46: 
+2024-11-18 08:11:46: Handling registers for 714913189866897521
+2024-11-18 08:11:46: 🔁 Edited command "auction".
+2024-11-18 08:11:46: 🔁 Edited command "message".
+2024-11-18 08:11:46: 
+2024-11-18 08:11:46: Handling registers for 839198167908220949
+2024-11-18 08:11:47: 🔁 Edited command "auction".
+2024-11-18 08:11:47: 🔁 Edited command "message".
+2024-11-18 08:11:47: 
+2024-11-18 08:11:47: Handling registers for 1077797358198345761
+2024-11-18 08:11:47: 🔁 Edited command "auction".
+2024-11-18 08:11:47: 🔁 Edited command "message".
+2024-11-18 08:11:47: 
+2024-11-18 08:11:47: Handling registers for 1149865513984479262
+2024-11-18 08:11:47: 🔁 Edited command "auction".
+2024-11-18 08:11:48: 🔁 Edited command "message".
+2024-11-18 08:11:48: 
+2024-11-18 08:11:48: Handling registers for 1161045215377895434
+2024-11-18 08:11:48: 🔁 Edited command "auction".
+2024-11-18 08:11:48: 🔁 Edited command "message".
+2024-11-18 08:11:48: 
+2024-11-18 08:11:48: Handling registers for 1162250549731795004
+2024-11-18 08:11:48: 🔁 Edited command "auction".
+2024-11-18 08:11:48: 🔁 Edited command "message".
+2024-11-18 08:11:48: 
+2024-11-18 08:11:48: Handling registers for 1294524671953473588
+2024-11-18 08:11:49: 🔁 Edited command "auction".
+2024-11-18 08:11:49: 🔁 Edited command "message".
+2024-11-18 08:11:49: Dauntless#9452 is online.
+2024-11-18 08:13:14: [32m[nodemon] restarting due to changes...[39m
+2024-11-18 08:13:15: [32m[nodemon] starting `node ./src/index.js`[39m
+2024-11-18 08:13:16: Connected to DB.
+2024-11-18 08:13:17: 
+2024-11-18 08:13:17: Handling registers for 517764530756124672
+2024-11-18 08:13:17: 
+2024-11-18 08:13:17: Successfully updated stock market Mon Nov 18 2024 08:13:17 GMT-0500 (Eastern Standard Time)
+2024-11-18 08:13:17: 
+2024-11-18 08:13:17: Updating auction market Mon Nov 18 2024 08:13:17 GMT-0500 (Eastern Standard Time)
+2024-11-18 08:13:17: 🔁 Edited command "auction".
+2024-11-18 08:13:17: 🔁 Edited command "message".
+2024-11-18 08:13:17: 
+2024-11-18 08:13:17: Handling registers for 582753910943514625
+2024-11-18 08:13:18: 🔁 Edited command "auction".
+2024-11-18 08:13:18: 🔁 Edited command "message".
+2024-11-18 08:13:18: 
+2024-11-18 08:13:18: Handling registers for 714913189866897521
+2024-11-18 08:13:18: 🔁 Edited command "auction".
+2024-11-18 08:13:18: 🔁 Edited command "message".
+2024-11-18 08:13:18: 
+2024-11-18 08:13:18: Handling registers for 839198167908220949
+2024-11-18 08:13:19: 🔁 Edited command "auction".
+2024-11-18 08:13:19: 🔁 Edited command "message".
+2024-11-18 08:13:19: 
+2024-11-18 08:13:19: Handling registers for 1077797358198345761
+2024-11-18 08:13:19: 🔁 Edited command "auction".
+2024-11-18 08:13:19: 🔁 Edited command "message".
+2024-11-18 08:13:19: 
+2024-11-18 08:13:19: Handling registers for 1149865513984479262
+2024-11-18 08:13:20: 🔁 Edited command "auction".
+2024-11-18 08:13:20: 🔁 Edited command "message".
+2024-11-18 08:13:20: 
+2024-11-18 08:13:20: Handling registers for 1161045215377895434
+2024-11-18 08:13:20: 🔁 Edited command "auction".
+2024-11-18 08:13:20: 🔁 Edited command "message".
+2024-11-18 08:13:20: 
+2024-11-18 08:13:20: Handling registers for 1162250549731795004
+2024-11-18 08:13:21: 🔁 Edited command "auction".
+2024-11-18 08:13:21: 🔁 Edited command "message".
+2024-11-18 08:13:21: 
+2024-11-18 08:13:21: Handling registers for 1294524671953473588
+2024-11-18 08:13:21: 🔁 Edited command "auction".
+2024-11-18 08:13:21: 🔁 Edited command "message".
+2024-11-18 08:13:21: Dauntless#9452 is online.
+2024-11-18 08:18:18: 
+2024-11-18 08:18:18: Successfully updated stock market Mon Nov 18 2024 08:18:18 GMT-0500 (Eastern Standard Time)
+2024-11-18 08:21:57: 1
+2024-11-18 08:21:57: Error in /market view: TypeError: Cannot read properties of null (reading 'name')
+2024-11-18 08:22:03: 1
+2024-11-18 08:22:04: {
+2024-11-18 08:22:04:   _id: new ObjectId("6522fca07910f5f39bc97928"),
+2024-11-18 08:22:04:   userId: null,
+2024-11-18 08:22:04:   name: 'Frost Essence',
+2024-11-18 08:22:04:   description: 'A condensed orb of pure anguish harvested from the Hollows. Its mournful energy can be harnessed, though at what cost is uncertain.',
+2024-11-18 08:22:04:   price: 1400,
+2024-11-18 08:22:04:   quantity: 1,
+2024-11-18 08:22:04:   market: false,
+2024-11-18 08:22:04:   __v: 0
+2024-11-18 08:22:04: }
+2024-11-18 08:22:04: here
+2024-11-18 08:22:15: 0
+2024-11-18 08:22:15: {
+2024-11-18 08:22:15:   _id: new ObjectId("6522fc9a7910f5f39bc97818"),
+2024-11-18 08:22:15:   userId: null,
+2024-11-18 08:22:15:   name: 'Titanite Shard',
+2024-11-18 08:22:15:   description: 'Titanite shards are fragments of the Legendary Slabs. Titanite is etched into weapons to reinforce.',
+2024-11-18 08:22:15:   price: 500,
+2024-11-18 08:22:15:   quantity: 1,
+2024-11-18 08:22:15:   market: false,
+2024-11-18 08:22:15:   __v: 0
+2024-11-18 08:22:15: }
+2024-11-18 08:22:15: here
+2024-11-18 08:22:29: about to send monster:
+2024-11-18 08:22:34: about to send monster:
+2024-11-18 08:22:35: Running line check: 
+2024-11-18 08:22:39: about to send monster:
+2024-11-18 08:22:39: Running line check: 
+2024-11-18 08:22:42: Phantasmal Forlorn
+2024-11-18 08:22:42: 1
+2024-11-18 08:22:42: 0.6394106416117515
+2024-11-18 08:22:47: about to send monster:
+2024-11-18 08:22:47: Running line check: 
+2024-11-18 08:22:51: about to send monster:
+2024-11-18 08:22:56: Shadowmancer
+2024-11-18 08:22:56: 1
+2024-11-18 08:22:56: 0.2860313086000126
+2024-11-18 08:23:01: about to send monster:
+2024-11-18 08:23:04: Spire Sentinel
+2024-11-18 08:23:04: 1
+2024-11-18 08:23:04: 0.7893462799913182
+2024-11-18 08:23:18: 
+2024-11-18 08:23:18: Successfully updated stock market Mon Nov 18 2024 08:23:18 GMT-0500 (Eastern Standard Time)
+2024-11-18 08:26:34: 436260799963463680 and joined
+2024-11-18 08:26:34: turn works
+2024-11-18 08:26:41: 239475287216226306
+2024-11-18 08:26:42: turn works
+2024-11-18 08:26:46: 436260799963463680
+2024-11-18 08:26:46: turn works
+2024-11-18 08:26:47: 239475287216226306
+2024-11-18 08:26:48: turn works
+2024-11-18 08:26:50: 436260799963463680
+2024-11-18 08:28:18: 
+2024-11-18 08:28:18: Successfully updated stock market Mon Nov 18 2024 08:28:18 GMT-0500 (Eastern Standard Time)

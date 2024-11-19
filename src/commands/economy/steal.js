@@ -129,9 +129,10 @@ module.exports = {
             const ropeItem = await Material.findOne({ name: "Rope", userId: thief.userId });
             const securityModule = await Usable.findOne({name: "Bank Security Module", userId: target.userId})
 
-            let balancer =  (target.balance - thief.balance) * 0.0005;
+            let balancer =  ((target.balance) - (thief.balance)) * 0.0005;
 
             balancer = Math.max(Math.min(balancer, 30), -30);
+            if (stolenAmount > thief.balance) {balancer -= stolenAmount/thief.balance}
             
             let successRate = 40 + balancer;
             let additionalStatements = "";
